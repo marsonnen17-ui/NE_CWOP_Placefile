@@ -24,6 +24,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add CWOP_Full_ObsV1.txt
+          git add NE_Mesonet.txt
           git commit -m "Auto-update placefile" || exit 0
           git push
