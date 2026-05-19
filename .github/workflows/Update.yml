@@ -1,29 +1,36 @@
-name: Update Placefile
+name: Update NE CWOP Placefile
+
 on:
   schedule:
     - cron: '*/5 * * * *' # Runs every 5 minutes
-  workflow_dispatch:      # Allows you to run it manually
+  workflow_dispatch: # Allows you to run it manually
 
 jobs:
-  build:
+  update-data:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/python-version@v4
-        with:
-          python-version: '3.9'
-      - name: Install dependencies
-        run: pip install requests
-      - name: Run script
-        run: python Script.py
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add CWOP_Ful_ObsV3.txt
-          git commit -m "Auto-update placefile" || exit 0
-          git push
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        cache: 'requests' # Optional: Speeds up subsequent runs
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run Script
+      run: python Script.py # Replace with your actual script file name
+
+    - name: Commit and Push Placefile
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add CWOP_Full_ObsV3.txt
+        git diff-index --quiet HEAD || git commit -m "Automated Placefile Update"
+        git push
