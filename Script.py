@@ -5,7 +5,7 @@ from datetime import datetime
 TOKEN = "024e1e15e3ad4650a5d36c5b37fe3095"
 NETWORK = "65"  # CWOP Network
 FILENAME = "CWOP_Full_ObsV1.txt"
-ICON_URL = "https://raw.githubusercontent.com/marsonnen17-ui/NE_Mesonet_Placefile/main/wind_barbs_V4_64.png"
+ICON_URL = "https://raw.githubusercontent.com/marsonnen17-ui/NE_CWOP_Placefile/main/wind_barbs_V4_64.png"
 
 # Priority Stations
 TARGET_STIDS = ["E7235", "G4507", "C9774", "E7290", "D4989", "E3958"]
