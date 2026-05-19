@@ -29,7 +29,7 @@ def get_barb_index(wind_speed_value_1):
 
         # 3. Calculate Index (The +1 ensures we skip the blank Index 0)
         # For 13 knots (15mph): (13 + 2.5) // 5 = 3.  3 + 1 = 4.
-        index = int((wspd_kts + 2.5) // 5) + 1
+        index = int((wspd_kts + 2.5) // 5) + 2
 
         return min(index, 21)
     except:
