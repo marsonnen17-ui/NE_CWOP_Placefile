@@ -4,16 +4,16 @@ Threshold: 999
 IconFile: 1, 64, 61, 32, 32, "https://raw.githubusercontent.com/marsonnen17-ui/NE_CWOP_Placefile/main/wind_barbs_V4_64.png"
 
 Color: 255 255 255
-Icon: 42.24333, -98.24200, 0, 1, 1, "CW9774 Ewing\nTemp: 34.0F / Dewp: 31.62F\nWind: 0 G 0 mph\nUpdated: 10:30z"
+Icon: 42.24333, -98.24200, 195, 1, 1, "CW9774 Ewing\nTemp: 55.0F / Dewp: 41.25F\nWind: 4 G 13 mph\nUpdated: 15:05z"
 Color: 255 255 255
-Icon: 42.7365, -99.73867, 0, 1, 1, "DW4989 Custer\nTemp: 29.0F / Dewp: 27.21F\nWind: 0 G 0 mph\nUpdated: 10:30z"
+Icon: 42.7365, -99.73867, 197, 1, 4, "DW4989 Custer\nTemp: 55.0F / Dewp: 42.1F\nWind: 10 G 15 mph\nUpdated: 15:00z"
 Color: 255 255 255
-Icon: 42.88330, -100.54131, 168, 1, 1, "EW3958 Valentine\nTemp: 37.0F / Dewp: 33.44F\nWind: 1 G 2 mph\nUpdated: 10:30z"
+Icon: 42.88330, -100.54131, 181, 1, 1, "EW3958 Valentine\nTemp: 52.0F / Dewp: 41.27F\nWind: 4 G 9 mph\nUpdated: 15:00z"
 Color: 255 255 255
-Icon: 41.19033, -100.74950, 111, 1, 3, "EW7235 North Platte\nTemp: 43.0F / Dewp: 37.18F\nWind: 6 G 9 mph\nUpdated: 10:30z"
+Icon: 41.19033, -100.74950, 162, 1, 3, "EW7235 North Platte\nTemp: 52.0F / Dewp: 42.42F\nWind: 6 G 14 mph\nUpdated: 15:05z"
 Color: 255 255 255
-Icon: 43.02333, -98.90417, 163, 1, 1, "EW7290 Fairfax\nTemp: 41.0F / Dewp: 35.55F\nWind: 0 G 1 mph\nUpdated: 10:30z"
+Icon: 43.02333, -98.90417, 109, 1, 4, "EW7290 Fairfax\nTemp: 52.0F / Dewp: 41.67F\nWind: 11 G 17 mph\nUpdated: 15:00z"
 Color: 255 255 255
-Icon: 41.80850, -99.76483, 135, 1, 1, "GW4507 ANSELMO\nTemp: 43.0F / Dewp: 35.53F\nWind: 3 G 6 mph\nUpdated: 10:30z"
+Icon: 41.80850, -99.76483, 161, 1, 4, "GW4507 ANSELMO\nTemp: 54.0F / Dewp: 39.87F\nWind: 11 G 22 mph\nUpdated: 15:00z"
 
 End:
