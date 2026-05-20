@@ -25,7 +25,7 @@ def get_barb_index(wind_speed_value_1):
 
         # 2. Force Calm for anything 0-4 knots
         if wspd_kts < 4.5:
-            return 1  # Index 1 is the Circle
+            return 2  # Index 1 is the Circle
 
         # 3. Calculate Index (The +1 ensures we skip the blank Index 0)
         # For 13 knots (15mph): (13 + 2.5) // 5 = 3.  3 + 1 = 4.
@@ -33,7 +33,7 @@ def get_barb_index(wind_speed_value_1):
 
         return min(index, 21)
     except:
-        return 1
+        return 2
 
 
 def build_placefile():
