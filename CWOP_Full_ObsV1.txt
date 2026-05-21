@@ -4,20 +4,20 @@ Threshold: 999
 IconFile: 1, 64, 61, 32, 32, "https://raw.githubusercontent.com/marsonnen17-ui/NE_CWOP_Placefile/main/wind_barbs_V4_64.png"
 
 Color: 255 255 255
-Icon: 42.33633, -98.457, 0, 1, 2, "WA0SOP Inman\nTemp: 50.0F / Dewp: 32.9F\nWind: 3 G 7 mph\nUpdated: 06:15z"
+Icon: 42.33633, -98.457, 0, 1, 2, "WA0SOP Inman\nTemp: 50.0F / Dewp: 33.39F\nWind: 3 G 7 mph\nUpdated: 06:30z"
 Color: 255 255 255
-Icon: 42.24333, -98.24200, 0, 1, 2, "CW9774 Ewing\nTemp: 50.0F / Dewp: 41.23F\nWind: 0 G 1 mph\nUpdated: 06:25z"
+Icon: 42.24333, -98.24200, 0, 1, 2, "CW9774 Ewing\nTemp: 50.0F / Dewp: 41.23F\nWind: 0 G 1 mph\nUpdated: 06:30z"
 Color: 255 255 255
-Icon: 42.7365, -99.73867, 135, 1, 2, "DW4989 Custer\nTemp: 53.0F / Dewp: 43.75F\nWind: 4 G 7 mph\nUpdated: 06:16z"
+Icon: 42.7365, -99.73867, 119, 1, 2, "DW4989 Custer\nTemp: 53.0F / Dewp: 43.75F\nWind: 2 G 5 mph\nUpdated: 06:30z"
 Color: 255 255 255
-Icon: 42.88330, -100.54131, 132, 1, 2, "EW3958 Valentine\nTemp: 47.0F / Dewp: 41.41F\nWind: 3 G 7 mph\nUpdated: 06:25z"
+Icon: 42.88330, -100.54131, 134, 1, 2, "EW3958 Valentine\nTemp: 47.0F / Dewp: 41.41F\nWind: 4 G 7 mph\nUpdated: 06:30z"
 Color: 255 255 255
 Icon: 41.19033, -100.74950, 100, 1, 3, "EW7235 North Platte\nTemp: 46.0F / Dewp: 42.01F\nWind: 7 G 11 mph\nUpdated: 06:25z"
 Color: 255 255 255
-Icon: 43.02333, -98.90417, 90, 1, 3, "EW7290 Fairfax\nTemp: 52.0F / Dewp: 42.8F\nWind: 7 G 11 mph\nUpdated: 06:15z"
+Icon: 43.02333, -98.90417, 85, 1, 3, "EW7290 Fairfax\nTemp: 51.0F / Dewp: 42.57F\nWind: 9 G 13 mph\nUpdated: 06:30z"
 Color: 255 255 255
-Icon: 41.19367, -101.49433, 117, 1, 2, "EW7246 Keystone\nTemp: 45.0F / Dewp: 39.13F\nWind: 0 G 1 mph\nUpdated: 06:15z"
+Icon: 41.19367, -101.49433, 117, 1, 2, "EW7246 Keystone\nTemp: 44.0F / Dewp: 38.16F\nWind: 0 G 2 mph\nUpdated: 06:30z"
 Color: 255 255 255
-Icon: 41.80850, -99.76483, 134, 1, 3, "GW4507 ANSELMO\nTemp: 49.0F / Dewp: 40.64F\nWind: 5 G 10 mph\nUpdated: 06:15z"
+Icon: 41.80850, -99.76483, 112, 1, 3, "GW4507 ANSELMO\nTemp: 49.0F / Dewp: 40.64F\nWind: 5 G 11 mph\nUpdated: 06:30z"
 
 End:
