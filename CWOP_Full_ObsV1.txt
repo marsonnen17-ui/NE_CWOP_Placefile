@@ -4,20 +4,20 @@ Threshold: 999
 IconFile: 1, 64, 61, 32, 32, "https://raw.githubusercontent.com/marsonnen17-ui/NE_CWOP_Placefile/main/wind_barbs_V4_64.png"
 
 Color: 255 255 255
-Icon: 42.33633, -98.457, 254, 1, 2, "WA0SOP Inman\nTemp: 76.0F / Dewp: 33.24F\nWind: 3 G 5 mph\nUpdated: 18:15z"
+Icon: 42.33633, -98.457, 237, 1, 2, "WA0SOP Inman\nTemp: 77.0F / Dewp: 32.88F\nWind: 4 G 9 mph\nUpdated: 18:30z"
 Color: 255 255 255
-Icon: 42.24333, -98.24200, 219, 1, 3, "CW9774 Ewing\nTemp: 72.0F / Dewp: 48.83F\nWind: 9 G 24 mph\nUpdated: 18:25z"
+Icon: 42.24333, -98.24200, 208, 1, 3, "CW9774 Ewing\nTemp: 73.0F / Dewp: 50.34F\nWind: 9 G 24 mph\nUpdated: 18:30z"
 Color: 255 255 255
-Icon: 42.7365, -99.73867, 271, 1, 2, "DW4989 Custer\nTemp: 76.0F / Dewp: 46.33F\nWind: 4 G 7 mph\nUpdated: 18:15z"
+Icon: 42.7365, -99.73867, 300, 1, 2, "DW4989 Custer\nTemp: 76.0F / Dewp: 42.3F\nWind: 0 G 7 mph\nUpdated: 18:31z"
 Color: 255 255 255
 Icon: 42.88330, -100.54131, 270, 1, 4, "EW3958 Valentine\nTemp: 72.0F / Dewp: 37.04F\nWind: 11 G 19 mph\nUpdated: 18:25z"
 Color: 255 255 255
-Icon: 41.19033, -100.74950, 219, 1, 4, "EW7235 North Platte\nTemp: 72.0F / Dewp: 42.03F\nWind: 14 G 22 mph\nUpdated: 18:25z"
+Icon: 41.19033, -100.74950, 239, 1, 4, "EW7235 North Platte\nTemp: 71.0F / Dewp: 41.88F\nWind: 10 G 22 mph\nUpdated: 18:30z"
 Color: 255 255 255
-Icon: 43.02333, -98.90417, 299, 1, 4, "EW7290 Fairfax\nTemp: 71.0F / Dewp: 43.34F\nWind: 10 G 14 mph\nUpdated: 18:15z"
+Icon: 43.02333, -98.90417, 252, 1, 3, "EW7290 Fairfax\nTemp: 73.0F / Dewp: 44.4F\nWind: 6 G 14 mph\nUpdated: 18:30z"
 Color: 255 255 255
-Icon: 41.19367, -101.49433, 223, 1, 4, "EW7246 Keystone\nTemp: 74.0F / Dewp: 43.79F\nWind: 10 G 19 mph\nUpdated: 18:16z"
+Icon: 41.19367, -101.49433, 234, 1, 4, "EW7246 Keystone\nTemp: 74.0F / Dewp: 43.79F\nWind: 10 G 14 mph\nUpdated: 18:30z"
 Color: 255 255 255
-Icon: 41.80850, -99.76483, 233, 1, 4, "GW4507 ANSELMO\nTemp: 74.0F / Dewp: 39.69F\nWind: 14 G 24 mph\nUpdated: 18:15z"
+Icon: 41.80850, -99.76483, 237, 1, 4, "GW4507 ANSELMO\nTemp: 75.0F / Dewp: 40.55F\nWind: 11 G 23 mph\nUpdated: 18:30z"
 
 End:
