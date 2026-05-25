@@ -4,20 +4,20 @@ Threshold: 999
 IconFile: 1, 64, 61, 32, 32, "https://raw.githubusercontent.com/marsonnen17-ui/NE_CWOP_Placefile/main/wind_barbs_V4_64.png"
 
 Color: 255 255 255
-Icon: 42.33633, -98.457, 157, 1, 3, "WA0SOP Inman\nTemp: 67.0F / Dewp: 47.66F\nWind: 5 G 9 mph\nUpdated: 06:15z"
+Icon: 42.33633, -98.457, 179, 1, 2, "WA0SOP Inman\nTemp: 65.0F / Dewp: 47.35F\nWind: 4 G 9 mph\nUpdated: 06:31z"
 Color: 255 255 255
-Icon: 42.24333, -98.24200, 167, 1, 2, "CW9774 Ewing\nTemp: 66.0F / Dewp: 58.89F\nWind: 2 G 5 mph\nUpdated: 06:25z"
+Icon: 42.24333, -98.24200, 119, 1, 2, "CW9774 Ewing\nTemp: 65.0F / Dewp: 57.92F\nWind: 1 G 4 mph\nUpdated: 06:30z"
 Color: 255 255 255
-Icon: 42.7365, -99.73867, 0, 1, 2, "DW4989 Custer\nTemp: 56.0F / Dewp: 49.86F\nWind: 0 G 1 mph\nUpdated: 06:15z"
+Icon: 42.7365, -99.73867, 45, 1, 2, "DW4989 Custer\nTemp: 55.0F / Dewp: 49.87F\nWind: 2 G 4 mph\nUpdated: 06:30z"
 Color: 255 255 255
-Icon: 42.88330, -100.54131, 266, 1, 2, "EW3958 Valentine\nTemp: 60.0F / Dewp: 49.73F\nWind: 2 G 4 mph\nUpdated: 06:25z"
+Icon: 42.88330, -100.54131, 264, 1, 3, "EW3958 Valentine\nTemp: 60.0F / Dewp: 48.92F\nWind: 5 G 18 mph\nUpdated: 06:30z"
 Color: 255 255 255
-Icon: 41.19033, -100.74950, 109, 1, 2, "EW7235 North Platte\nTemp: 64.0F / Dewp: 42.12F\nWind: 3 G 7 mph\nUpdated: 06:25z"
+Icon: 41.19033, -100.74950, 113, 1, 2, "EW7235 North Platte\nTemp: 63.0F / Dewp: 41.77F\nWind: 3 G 5 mph\nUpdated: 06:30z"
 Color: 255 255 255
-Icon: 43.02333, -98.90417, 151, 1, 2, "EW7290 Fairfax\nTemp: 66.0F / Dewp: 55.08F\nWind: 0 G 2 mph\nUpdated: 06:15z"
+Icon: 43.02333, -98.90417, 151, 1, 2, "EW7290 Fairfax\nTemp: 68.0F / Dewp: 54.86F\nWind: 2 G 4 mph\nUpdated: 06:30z"
 Color: 255 255 255
-Icon: 41.19367, -101.49433, 238, 1, 2, "EW7246 Keystone\nTemp: 64.0F / Dewp: 42.12F\nWind: 4 G 7 mph\nUpdated: 06:15z"
+Icon: 41.19367, -101.49433, 246, 1, 2, "EW7246 Keystone\nTemp: 65.0F / Dewp: 42.44F\nWind: 4 G 6 mph\nUpdated: 06:30z"
 Color: 255 255 255
-Icon: 41.80850, -99.76483, 144, 1, 2, "GW4507 ANSELMO\nTemp: 69.0F / Dewp: 48.42F\nWind: 4 G 11 mph\nUpdated: 06:15z"
+Icon: 41.80850, -99.76483, 155, 1, 2, "GW4507 ANSELMO\nTemp: 68.0F / Dewp: 48.04F\nWind: 4 G 11 mph\nUpdated: 06:30z"
 
 End:
