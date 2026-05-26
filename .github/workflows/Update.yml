@@ -27,7 +27,7 @@ jobs:
         pip install requests
 
     - name: Run Script
-      run: python Script.py # Replace with your actual script file name
+      run: python Script_V2.py # Replace with your actual script file name
 
     - name: Commit and Push Placefile
       run: |
