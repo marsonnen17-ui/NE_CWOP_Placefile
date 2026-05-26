@@ -6,13 +6,13 @@ IconFile: 1, 64, 61, 32, 32, "https://raw.githubusercontent.com/marsonnen17-ui/N
 Color: 255 255 255
 Icon: 42.33633, -98.457, 222, 1, 2, "WA0SOP Inman\nTemp: 81.0F / Dewp: 43.9F\nWind: 4 G 14 mph\nUpdated: 00:15z"
 Color: 255 255 255
-Icon: 42.24333, -98.24200, 262, 1, 4, "CW9774 Ewing\nTemp: 83.0F / Dewp: 54.07F\nWind: 12 G 21 mph\nUpdated: 00:20z"
+Icon: 42.24333, -98.24200, 253, 1, 4, "CW9774 Ewing\nTemp: 82.0F / Dewp: 57.31F\nWind: 14 G 23 mph\nUpdated: 00:25z"
 Color: 255 255 255
 Icon: 42.7365, -99.73867, 77, 1, 4, "DW4989 Custer\nTemp: 89.0F / Dewp: 58.68F\nWind: 10 G 17 mph\nUpdated: 00:15z"
 Color: 255 255 255
-Icon: 42.88330, -100.54131, 100, 1, 4, "EW3958 Valentine\nTemp: 90.0F / Dewp: 48.52F\nWind: 11 G 17 mph\nUpdated: 00:20z"
+Icon: 42.88330, -100.54131, 102, 1, 4, "EW3958 Valentine\nTemp: 89.0F / Dewp: 47.68F\nWind: 11 G 18 mph\nUpdated: 00:25z"
 Color: 255 255 255
-Icon: 41.19033, -100.74950, 180, 1, 3, "EW7235 North Platte\nTemp: 90.0F / Dewp: 45.01F\nWind: 6 G 12 mph\nUpdated: 00:20z"
+Icon: 41.19033, -100.74950, 211, 1, 3, "EW7235 North Platte\nTemp: 90.0F / Dewp: 43.75F\nWind: 6 G 13 mph\nUpdated: 00:25z"
 Color: 255 255 255
 Icon: 43.02333, -98.90417, 98, 1, 3, "EW7290 Fairfax\nTemp: 90.0F / Dewp: 59.58F\nWind: 7 G 15 mph\nUpdated: 00:15z"
 Color: 255 255 255
