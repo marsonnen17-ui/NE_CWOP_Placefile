@@ -48,9 +48,10 @@ def build_placefile():
 
         with open(FILENAME, "w", encoding="utf-8") as f:
             # HEADER
-            f.write("Title: NE CWOP - Full Observations\n")
+            f.write("Title: NE CWOP - Full Observations V2\n")
             f.write("Refresh: 5\n")
             f.write("Threshold: 999\n")
+            f.write('Font: 1, 12, 1, "Arial"\n')
             f.write(f'IconFile: 1, 64, 61, 32, 32, "{ICON_URL}"\n\n')
 
             for stn in filtered_stations:
@@ -65,30 +66,41 @@ def build_placefile():
                 temp = obs.get('air_temp_value_1', {}).get('value', "N/A")
                 dewp = obs.get('dew_point_temperature_value_1d', {}).get('value', "N/A")
 
-                # Timestamp Handling
+                # Hover label formatting
                 raw_time = obs.get('air_temp_value_1', {}).get('date_time')
-                if raw_time:
-                    dt = datetime.strptime(raw_time, "%Y-%m-%dT%H:%M:%SZ")
-                    display_time = dt.strftime("%H:%M") + "z"
-                else:
-                    display_time = "N/A"
+                display_time = datetime.strptime(raw_time, "%Y-%m-%dT%H:%M:%SZ").strftime("%H:%M") + "z" if raw_time else "N/A"
+                label = f"{stn.get('NAME', stid)}\\nT: {temp}F / D: {dewp}F\\nWind: {int(float(wspd)*1.151)} G {int(float(gust)*1.151)} mph\\nUpdated: {display_time}"
 
-                if lat and lon:
-                    idx = get_barb_index(wspd)
-                    # Updated Label with Dewpoint
-                    label = (f"{stn.get('NAME', stid)}\\n"
-                             f"Temp: {temp}F / Dewp: {dewp}F\\n"
-                             f"Wind: {int(float(wspd)*1.151)} G {int(float(gust)*1.151)} mph\\n"
-                             f"Updated: {display_time}")
+                idx = get_barb_index(wspd)
 
-                    f.write("Color: 255 255 255\n")
-                    f.write(f'Icon: {lat}, {lon}, {int(float(wdir))}, 1, {idx}, "{label}"\n')
+                # --- BEGIN COMPOSITE GRID OBJECT BLOCK ---
+                f.write(f"Object: {lat}, {lon}\n")
+                
+                # 2. Plot Temperature Text at Upper Left (-14 pixels X, +12 pixels Y)
+                if temp:
+                    f.write("  Color: 255 255 255\n") # Soft white for temperature visibility
+                    f.write(f'  Text: -14, 12, 1, "{int(round(temp))}"\n')
+                
+                # Plot dewpoint Text at Lower Left
+                if dewp:
+                    f.write("  Color: 255 255 255\n") # Soft white for dewpoint visibility
+                    f.write(f'  Text: -14, -12, 1, "{int(round(dewp))}"\n')
 
-            f.write("\nEnd:\n")
-        print(f"Success! {FILENAME} updated with dewpoint data.")
-        print(f"Success! Grabbed {len(all_stations)} stations, filtered down to {len(filtered_stations)}.")
+                # 3. Plot Wind Gust Text at Lower Right (+14 pixels X, -12 pixels Y)
+                if gust:
+                    f.write("  Color: 255 255 100\n") # Bright yellow for attention on gusts
+                    f.write(f'  Text: 14, -12, 1, "{int(float(gust)*1.151)}"\n')
+
+                # 1. Plot the Wind Barb Icon right at the center anchor point (0,0 offset)
+                f.write("  Color: 255 255 255\n")
+                f.write(f'  Icon: 0, 0, {int(float(wdir))}, 1, 2, "{label}"\n')
+                f.write(f'  Icon: 0, 0, {int(float(wdir))}, 1, {idx}, "{label}"\n')
+                    
+                f.write("End:\n\n") # Properly closes out the object group
+
+        print("Placefile with on-screen text metrics written successfully.")
     except Exception as e:
-        print(f"Script Error: {e}")
+        print(f"Error: {e}")
 
 if __name__ == "__main__":
     build_placefile()
