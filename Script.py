@@ -90,7 +90,7 @@ def build_placefile():
 
 
                 #Plot RH at Upper Right
-                if rh <= 25:
+                if rh <= 20:
                     f.write("  Color: 253 103 58\n") # smashed pumpkin for rh red flag criteria
                     f.write(f'  Text: 14, 12, 1, "{int(round(rh))}"\n')
                 else:
