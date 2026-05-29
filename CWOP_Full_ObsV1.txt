@@ -42,8 +42,8 @@ Object: 42.24333, -98.24200
   Color: 255 255 100
   Text: 14, -12, 1, "7"
   Color: 255 255 255
-  Icon: 0, 0, 184, 1, 2, "CW9774 Ewing\nT: 66.0F / D: 61.32F / RH: 85.0%\nWind: 4 G 7 mph\nUpdated: 06:00z"
-  Icon: 0, 0, 184, 1, 2, "CW9774 Ewing\nT: 66.0F / D: 61.32F / RH: 85.0%\nWind: 4 G 7 mph\nUpdated: 06:00z"
+  Icon: 0, 0, 181, 1, 2, "CW9774 Ewing\nT: 66.0F / D: 61.32F / RH: 85.0%\nWind: 4 G 7 mph\nUpdated: 06:05z"
+  Icon: 0, 0, 181, 1, 2, "CW9774 Ewing\nT: 66.0F / D: 61.32F / RH: 85.0%\nWind: 4 G 7 mph\nUpdated: 06:05z"
 End:
 
 Object: 42.7365, -99.73867
@@ -66,12 +66,12 @@ Object: 42.88330, -100.54131
   Color: 255 255 255
   Text: -14, -12, 1, "54"
   Color: 255 255 255
-  Text: 14, 12, 1, "69"
+  Text: 14, 12, 1, "70"
   Color: 255 255 100
   Text: 14, -12, 1, "4"
   Color: 255 255 255
-  Icon: 0, 0, 116, 1, 2, "EW3958 Valentine\nT: 64.0F / D: 53.56F / RH: 69.0%\nWind: 4 G 4 mph\nUpdated: 06:00z"
-  Icon: 0, 0, 116, 1, 2, "EW3958 Valentine\nT: 64.0F / D: 53.56F / RH: 69.0%\nWind: 4 G 4 mph\nUpdated: 06:00z"
+  Icon: 0, 0, 111, 1, 2, "EW3958 Valentine\nT: 64.0F / D: 53.96F / RH: 70.0%\nWind: 3 G 4 mph\nUpdated: 06:05z"
+  Icon: 0, 0, 111, 1, 2, "EW3958 Valentine\nT: 64.0F / D: 53.96F / RH: 70.0%\nWind: 3 G 4 mph\nUpdated: 06:05z"
 End:
 
 Object: 41.19033, -100.74950
@@ -80,12 +80,12 @@ Object: 41.19033, -100.74950
   Color: 255 255 255
   Text: -14, -12, 1, "55"
   Color: 255 255 255
-  Text: 14, 12, 1, "88"
+  Text: 14, 12, 1, "87"
   Color: 255 255 100
   Text: 14, -12, 1, "9"
   Color: 255 255 255
-  Icon: 0, 0, 84, 1, 2, "EW7235 North Platte\nT: 59.0F / D: 55.42F / RH: 88.0%\nWind: 6 G 9 mph\nUpdated: 06:00z"
-  Icon: 0, 0, 84, 1, 3, "EW7235 North Platte\nT: 59.0F / D: 55.42F / RH: 88.0%\nWind: 6 G 9 mph\nUpdated: 06:00z"
+  Icon: 0, 0, 83, 1, 2, "EW7235 North Platte\nT: 59.0F / D: 55.09F / RH: 87.0%\nWind: 5 G 9 mph\nUpdated: 06:05z"
+  Icon: 0, 0, 83, 1, 3, "EW7235 North Platte\nT: 59.0F / D: 55.09F / RH: 87.0%\nWind: 5 G 9 mph\nUpdated: 06:05z"
 End:
 
 Object: 43.02333, -98.90417
