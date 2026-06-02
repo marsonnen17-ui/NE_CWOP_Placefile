@@ -34,16 +34,16 @@ End:
 
 Object: 42.24333, -98.24200
   Color: 255 255 255
-  Text: -14, 12, 1, "67"
+  Text: -14, 12, 1, "66"
   Color: 255 255 255
   Text: -14, -12, 1, "61"
   Color: 255 255 255
-  Text: 14, 12, 1, "82"
+  Text: 14, 12, 1, "84"
   Color: 255 255 100
-  Text: 14, -12, 1, "30"
+  Text: 14, -12, 1, "27"
   Color: 255 255 255
-  Icon: 0, 0, 229, 1, 2, "CW9774 Ewing\nT: 67.0F / D: 61.29F / RH: 82.0%\nWind: 18 G 30 mph\nUpdated: 06:50z"
-  Icon: 0, 0, 229, 1, 5, "CW9774 Ewing\nT: 67.0F / D: 61.29F / RH: 82.0%\nWind: 18 G 30 mph\nUpdated: 06:50z"
+  Icon: 0, 0, 209, 1, 2, "CW9774 Ewing\nT: 66.0F / D: 61.0F / RH: 84.0%\nWind: 14 G 27 mph\nUpdated: 06:55z"
+  Icon: 0, 0, 209, 1, 4, "CW9774 Ewing\nT: 66.0F / D: 61.0F / RH: 84.0%\nWind: 14 G 27 mph\nUpdated: 06:55z"
 End:
 
 Object: 42.7365, -99.73867
@@ -80,12 +80,12 @@ Object: 41.19033, -100.74950
   Color: 255 255 255
   Text: -14, -12, 1, "56"
   Color: 255 255 255
-  Text: 14, 12, 1, "85"
+  Text: 14, 12, 1, "84"
   Color: 255 255 100
-  Text: 14, -12, 1, "27"
+  Text: 14, -12, 1, "24"
   Color: 255 255 255
-  Icon: 0, 0, 50, 1, 2, "EW7235 North Platte\nT: 61.0F / D: 56.43F / RH: 85.0%\nWind: 18 G 27 mph\nUpdated: 06:50z"
-  Icon: 0, 0, 50, 1, 5, "EW7235 North Platte\nT: 61.0F / D: 56.43F / RH: 85.0%\nWind: 18 G 27 mph\nUpdated: 06:50z"
+  Icon: 0, 0, 58, 1, 2, "EW7235 North Platte\nT: 61.0F / D: 56.08F / RH: 84.0%\nWind: 17 G 24 mph\nUpdated: 06:55z"
+  Icon: 0, 0, 58, 1, 5, "EW7235 North Platte\nT: 61.0F / D: 56.08F / RH: 84.0%\nWind: 17 G 24 mph\nUpdated: 06:55z"
 End:
 
 Object: 43.02333, -98.90417
