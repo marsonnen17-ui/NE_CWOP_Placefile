@@ -36,14 +36,14 @@ Object: 42.24333, -98.24200
   Color: 255 255 255
   Text: -14, 12, 1, "83"
   Color: 255 255 255
-  Text: -14, -12, 1, "68"
+  Text: -14, -12, 1, "67"
   Color: 255 255 255
-  Text: 14, 12, 1, "60"
+  Text: 14, 12, 1, "59"
   Color: 255 255 100
   Text: 14, -12, 1, "9"
   Color: 255 255 255
-  Icon: 0, 0, 319, 1, 2, "CW9774 Ewing\nT: 83.0F / D: 67.69F / RH: 60.0%\nWind: 4 G 9 mph\nUpdated: 21:00z"
-  Icon: 0, 0, 319, 1, 2, "CW9774 Ewing\nT: 83.0F / D: 67.69F / RH: 60.0%\nWind: 4 G 9 mph\nUpdated: 21:00z"
+  Icon: 0, 0, 315, 1, 2, "CW9774 Ewing\nT: 83.0F / D: 67.21F / RH: 59.0%\nWind: 2 G 9 mph\nUpdated: 21:10z"
+  Icon: 0, 0, 315, 1, 2, "CW9774 Ewing\nT: 83.0F / D: 67.21F / RH: 59.0%\nWind: 2 G 9 mph\nUpdated: 21:10z"
 End:
 
 Object: 42.7365, -99.73867
@@ -68,10 +68,10 @@ Object: 42.88330, -100.54131
   Color: 255 255 255
   Text: 14, 12, 1, "43"
   Color: 255 255 100
-  Text: 14, -12, 1, "5"
+  Text: 14, -12, 1, "10"
   Color: 255 255 255
-  Icon: 0, 0, 135, 1, 2, "EW3958 Valentine\nT: 83.0F / D: 58.23F / RH: 43.0%\nWind: 3 G 5 mph\nUpdated: 21:00z"
-  Icon: 0, 0, 135, 1, 2, "EW3958 Valentine\nT: 83.0F / D: 58.23F / RH: 43.0%\nWind: 3 G 5 mph\nUpdated: 21:00z"
+  Icon: 0, 0, 93, 1, 2, "EW3958 Valentine\nT: 83.0F / D: 58.23F / RH: 43.0%\nWind: 4 G 10 mph\nUpdated: 21:10z"
+  Icon: 0, 0, 93, 1, 2, "EW3958 Valentine\nT: 83.0F / D: 58.23F / RH: 43.0%\nWind: 4 G 10 mph\nUpdated: 21:10z"
 End:
 
 Object: 41.19033, -100.74950
@@ -82,10 +82,10 @@ Object: 41.19033, -100.74950
   Color: 255 255 255
   Text: 14, 12, 1, "39"
   Color: 255 255 100
-  Text: 14, -12, 1, "21"
+  Text: 14, -12, 1, "22"
   Color: 255 255 255
-  Icon: 0, 0, 95, 1, 2, "EW7235 North Platte\nT: 84.0F / D: 56.43F / RH: 39.0%\nWind: 13 G 21 mph\nUpdated: 21:00z"
-  Icon: 0, 0, 95, 1, 4, "EW7235 North Platte\nT: 84.0F / D: 56.43F / RH: 39.0%\nWind: 13 G 21 mph\nUpdated: 21:00z"
+  Icon: 0, 0, 81, 1, 2, "EW7235 North Platte\nT: 84.0F / D: 56.43F / RH: 39.0%\nWind: 17 G 22 mph\nUpdated: 21:10z"
+  Icon: 0, 0, 81, 1, 5, "EW7235 North Platte\nT: 84.0F / D: 56.43F / RH: 39.0%\nWind: 17 G 22 mph\nUpdated: 21:10z"
 End:
 
 Object: 43.02333, -98.90417
