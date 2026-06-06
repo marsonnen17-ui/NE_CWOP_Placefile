@@ -42,8 +42,8 @@ Object: 42.24333, -98.24200
   Color: 255 255 100
   Text: 14, -12, 1, "0"
   Color: 255 255 255
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 67.0F / D: 59.5F / RH: 77.0%\nWind: 0 G 0 mph\nUpdated: 03:35z"
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 67.0F / D: 59.5F / RH: 77.0%\nWind: 0 G 0 mph\nUpdated: 03:35z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 67.0F / D: 59.5F / RH: 77.0%\nWind: 0 G 0 mph\nUpdated: 03:40z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 67.0F / D: 59.5F / RH: 77.0%\nWind: 0 G 0 mph\nUpdated: 03:40z"
 End:
 
 Object: 42.7365, -99.73867
@@ -66,12 +66,12 @@ Object: 42.88330, -100.54131
   Color: 255 255 255
   Text: -14, -12, 1, "61"
   Color: 255 255 255
-  Text: 14, 12, 1, "74"
+  Text: 14, 12, 1, "73"
   Color: 255 255 100
   Text: 14, -12, 1, "7"
   Color: 255 255 255
-  Icon: 0, 0, 115, 1, 2, "EW3958 Valentine\nT: 70.0F / D: 61.29F / RH: 74.0%\nWind: 4 G 7 mph\nUpdated: 03:35z"
-  Icon: 0, 0, 115, 1, 2, "EW3958 Valentine\nT: 70.0F / D: 61.29F / RH: 74.0%\nWind: 4 G 7 mph\nUpdated: 03:35z"
+  Icon: 0, 0, 113, 1, 2, "EW3958 Valentine\nT: 70.0F / D: 60.91F / RH: 73.0%\nWind: 4 G 7 mph\nUpdated: 03:40z"
+  Icon: 0, 0, 113, 1, 2, "EW3958 Valentine\nT: 70.0F / D: 60.91F / RH: 73.0%\nWind: 4 G 7 mph\nUpdated: 03:40z"
 End:
 
 Object: 41.19033, -100.74950
@@ -80,12 +80,12 @@ Object: 41.19033, -100.74950
   Color: 255 255 255
   Text: -14, -12, 1, "59"
   Color: 255 255 255
-  Text: 14, 12, 1, "66"
+  Text: 14, 12, 1, "67"
   Color: 255 255 100
   Text: 14, -12, 1, "13"
   Color: 255 255 255
-  Icon: 0, 0, 74, 1, 2, "EW7235 North Platte\nT: 71.0F / D: 59.02F / RH: 66.0%\nWind: 11 G 13 mph\nUpdated: 03:35z"
-  Icon: 0, 0, 74, 1, 4, "EW7235 North Platte\nT: 71.0F / D: 59.02F / RH: 66.0%\nWind: 11 G 13 mph\nUpdated: 03:35z"
+  Icon: 0, 0, 68, 1, 2, "EW7235 North Platte\nT: 71.0F / D: 59.45F / RH: 67.0%\nWind: 10 G 13 mph\nUpdated: 03:40z"
+  Icon: 0, 0, 68, 1, 4, "EW7235 North Platte\nT: 71.0F / D: 59.45F / RH: 67.0%\nWind: 10 G 13 mph\nUpdated: 03:40z"
 End:
 
 Object: 43.02333, -98.90417
