@@ -36,14 +36,14 @@ Object: 42.24333, -98.24200
   Color: 255 255 255
   Text: -14, 12, 1, "74"
   Color: 255 255 255
-  Text: -14, -12, 1, "67"
+  Text: -14, -12, 1, "68"
   Color: 255 255 255
-  Text: 14, 12, 1, "80"
+  Text: 14, 12, 1, "81"
   Color: 255 255 100
-  Text: 14, -12, 1, "6"
+  Text: 14, -12, 1, "5"
   Color: 255 255 255
-  Icon: 0, 0, 193, 1, 2, "CW9774 Ewing\nT: 74.0F / D: 67.41F / RH: 80.0%\nWind: 2 G 6 mph\nUpdated: 03:35z"
-  Icon: 0, 0, 193, 1, 2, "CW9774 Ewing\nT: 74.0F / D: 67.41F / RH: 80.0%\nWind: 2 G 6 mph\nUpdated: 03:35z"
+  Icon: 0, 0, 188, 1, 2, "CW9774 Ewing\nT: 74.0F / D: 67.78F / RH: 81.0%\nWind: 1 G 5 mph\nUpdated: 03:40z"
+  Icon: 0, 0, 188, 1, 2, "CW9774 Ewing\nT: 74.0F / D: 67.78F / RH: 81.0%\nWind: 1 G 5 mph\nUpdated: 03:40z"
 End:
 
 Object: 42.7365, -99.73867
@@ -76,16 +76,16 @@ End:
 
 Object: 41.19033, -100.74950
   Color: 255 255 255
-  Text: -14, 12, 1, "75"
+  Text: -14, 12, 1, "74"
   Color: 255 255 255
-  Text: -14, -12, 1, "62"
+  Text: -14, -12, 1, "61"
   Color: 255 255 255
-  Text: 14, 12, 1, "64"
+  Text: 14, 12, 1, "65"
   Color: 255 255 100
   Text: 14, -12, 1, "15"
   Color: 255 255 255
-  Icon: 0, 0, 133, 1, 2, "EW7235 North Platte\nT: 75.0F / D: 61.97F / RH: 64.0%\nWind: 11 G 15 mph\nUpdated: 03:35z"
-  Icon: 0, 0, 133, 1, 4, "EW7235 North Platte\nT: 75.0F / D: 61.97F / RH: 64.0%\nWind: 11 G 15 mph\nUpdated: 03:35z"
+  Icon: 0, 0, 117, 1, 2, "EW7235 North Platte\nT: 74.0F / D: 61.45F / RH: 65.0%\nWind: 10 G 15 mph\nUpdated: 03:40z"
+  Icon: 0, 0, 117, 1, 4, "EW7235 North Platte\nT: 74.0F / D: 61.45F / RH: 65.0%\nWind: 10 G 15 mph\nUpdated: 03:40z"
 End:
 
 Object: 43.02333, -98.90417
