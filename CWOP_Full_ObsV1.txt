@@ -6,58 +6,58 @@ IconFile: 1, 64, 61, 32, 32, "https://raw.githubusercontent.com/marsonnen17-ui/N
 
 Object: 42.33633, -98.457
   Color: 255 255 255
-  Text: -14, 12, 1, "65"
+  Text: -14, 12, 1, "64"
   Color: 255 255 255
-  Text: -14, -12, 1, "45"
+  Text: -14, -12, 1, "44"
   Color: 255 255 255
-  Text: 14, 12, 1, "48"
+  Text: 14, 12, 1, "49"
   Color: 255 255 100
   Text: 14, -12, 1, "1"
   Color: 255 255 255
-  Icon: 0, 0, 286, 1, 2, "WA0SOP Inman\nT: 65.0F / D: 44.73F / RH: 48.0%\nWind: 0 G 1 mph\nUpdated: 05:15z"
-  Icon: 0, 0, 286, 1, 2, "WA0SOP Inman\nT: 65.0F / D: 44.73F / RH: 48.0%\nWind: 0 G 1 mph\nUpdated: 05:15z"
+  Icon: 0, 0, 287, 1, 2, "WA0SOP Inman\nT: 64.0F / D: 44.35F / RH: 49.0%\nWind: 0 G 1 mph\nUpdated: 05:30z"
+  Icon: 0, 0, 287, 1, 2, "WA0SOP Inman\nT: 64.0F / D: 44.35F / RH: 49.0%\nWind: 0 G 1 mph\nUpdated: 05:30z"
 End:
 
 Object: 41.66283, -103.09667
   Color: 255 255 255
-  Text: -14, 12, 1, "70"
+  Text: -14, 12, 1, "69"
   Color: 255 255 255
-  Text: -14, -12, 1, "37"
+  Text: -14, -12, 1, "36"
   Color: 255 255 255
   Text: 14, 12, 1, "30"
   Color: 255 255 100
-  Text: 14, -12, 1, "10"
+  Text: 14, -12, 1, "9"
   Color: 255 255 255
-  Icon: 0, 0, 125, 1, 2, "CW2360 Bridgeport\nT: 70.0F / D: 37.06F / RH: 30.0%\nWind: 2 G 10 mph\nUpdated: 05:15z"
-  Icon: 0, 0, 125, 1, 2, "CW2360 Bridgeport\nT: 70.0F / D: 37.06F / RH: 30.0%\nWind: 2 G 10 mph\nUpdated: 05:15z"
+  Icon: 0, 0, 123, 1, 2, "CW2360 Bridgeport\nT: 69.0F / D: 36.18F / RH: 30.0%\nWind: 2 G 9 mph\nUpdated: 05:30z"
+  Icon: 0, 0, 123, 1, 2, "CW2360 Bridgeport\nT: 69.0F / D: 36.18F / RH: 30.0%\nWind: 2 G 9 mph\nUpdated: 05:30z"
 End:
 
 Object: 42.24333, -98.24200
   Color: 255 255 255
-  Text: -14, 12, 1, "66"
+  Text: -14, 12, 1, "65"
   Color: 255 255 255
-  Text: -14, -12, 1, "55"
+  Text: -14, -12, 1, "54"
   Color: 255 255 255
-  Text: 14, 12, 1, "67"
+  Text: 14, 12, 1, "68"
   Color: 255 255 100
   Text: 14, -12, 1, "6"
   Color: 255 255 255
-  Icon: 0, 0, 285, 1, 2, "CW9774 Ewing\nT: 66.0F / D: 54.66F / RH: 67.0%\nWind: 2 G 6 mph\nUpdated: 05:25z"
-  Icon: 0, 0, 285, 1, 2, "CW9774 Ewing\nT: 66.0F / D: 54.66F / RH: 67.0%\nWind: 2 G 6 mph\nUpdated: 05:25z"
+  Icon: 0, 0, 294, 1, 2, "CW9774 Ewing\nT: 65.0F / D: 54.12F / RH: 68.0%\nWind: 3 G 6 mph\nUpdated: 05:30z"
+  Icon: 0, 0, 294, 1, 2, "CW9774 Ewing\nT: 65.0F / D: 54.12F / RH: 68.0%\nWind: 3 G 6 mph\nUpdated: 05:30z"
 End:
 
 Object: 42.7365, -99.73867
   Color: 255 255 255
-  Text: -14, 12, 1, "67"
+  Text: -14, 12, 1, "66"
   Color: 255 255 255
-  Text: -14, -12, 1, "55"
+  Text: -14, -12, 1, "54"
   Color: 255 255 255
-  Text: 14, 12, 1, "65"
+  Text: 14, 12, 1, "66"
   Color: 255 255 100
   Text: 14, -12, 1, "4"
   Color: 255 255 255
-  Icon: 0, 0, 87, 1, 2, "DW4989 Custer\nT: 67.0F / D: 54.79F / RH: 65.0%\nWind: 2 G 4 mph\nUpdated: 05:15z"
-  Icon: 0, 0, 87, 1, 2, "DW4989 Custer\nT: 67.0F / D: 54.79F / RH: 65.0%\nWind: 2 G 4 mph\nUpdated: 05:15z"
+  Icon: 0, 0, 11, 1, 2, "DW4989 Custer\nT: 66.0F / D: 54.25F / RH: 66.0%\nWind: 2 G 4 mph\nUpdated: 05:30z"
+  Icon: 0, 0, 11, 1, 2, "DW4989 Custer\nT: 66.0F / D: 54.25F / RH: 66.0%\nWind: 2 G 4 mph\nUpdated: 05:30z"
 End:
 
 Object: 42.88330, -100.54131
@@ -68,10 +68,10 @@ Object: 42.88330, -100.54131
   Color: 255 255 255
   Text: 14, 12, 1, "56"
   Color: 255 255 100
-  Text: 14, -12, 1, "10"
+  Text: 14, -12, 1, "9"
   Color: 255 255 255
-  Icon: 0, 0, 83, 1, 2, "EW3958 Valentine\nT: 66.0F / D: 49.77F / RH: 56.0%\nWind: 4 G 10 mph\nUpdated: 05:25z"
-  Icon: 0, 0, 83, 1, 2, "EW3958 Valentine\nT: 66.0F / D: 49.77F / RH: 56.0%\nWind: 4 G 10 mph\nUpdated: 05:25z"
+  Icon: 0, 0, 78, 1, 2, "EW3958 Valentine\nT: 66.0F / D: 49.77F / RH: 56.0%\nWind: 4 G 9 mph\nUpdated: 05:30z"
+  Icon: 0, 0, 78, 1, 2, "EW3958 Valentine\nT: 66.0F / D: 49.77F / RH: 56.0%\nWind: 4 G 9 mph\nUpdated: 05:30z"
 End:
 
 Object: 41.19033, -100.74950
@@ -82,10 +82,10 @@ Object: 41.19033, -100.74950
   Color: 255 255 255
   Text: 14, 12, 1, "51"
   Color: 255 255 100
-  Text: 14, -12, 1, "2"
+  Text: 14, -12, 1, "5"
   Color: 255 255 255
-  Icon: 0, 0, 0, 1, 2, "EW7235 North Platte\nT: 72.0F / D: 52.83F / RH: 51.0%\nWind: 0 G 2 mph\nUpdated: 05:25z"
-  Icon: 0, 0, 0, 1, 2, "EW7235 North Platte\nT: 72.0F / D: 52.83F / RH: 51.0%\nWind: 0 G 2 mph\nUpdated: 05:25z"
+  Icon: 0, 0, 0, 1, 2, "EW7235 North Platte\nT: 72.0F / D: 52.83F / RH: 51.0%\nWind: 1 G 5 mph\nUpdated: 05:30z"
+  Icon: 0, 0, 0, 1, 2, "EW7235 North Platte\nT: 72.0F / D: 52.83F / RH: 51.0%\nWind: 1 G 5 mph\nUpdated: 05:30z"
 End:
 
 Object: 43.02333, -98.90417
@@ -94,26 +94,26 @@ Object: 43.02333, -98.90417
   Color: 255 255 255
   Text: -14, -12, 1, "53"
   Color: 255 255 255
-  Text: 14, 12, 1, "62"
+  Text: 14, 12, 1, "61"
   Color: 255 255 100
-  Text: 14, -12, 1, "14"
+  Text: 14, -12, 1, "17"
   Color: 255 255 255
-  Icon: 0, 0, 22, 1, 2, "EW7290 Fairfax\nT: 67.0F / D: 53.47F / RH: 62.0%\nWind: 10 G 14 mph\nUpdated: 05:15z"
-  Icon: 0, 0, 22, 1, 4, "EW7290 Fairfax\nT: 67.0F / D: 53.47F / RH: 62.0%\nWind: 10 G 14 mph\nUpdated: 05:15z"
+  Icon: 0, 0, 15, 1, 2, "EW7290 Fairfax\nT: 67.0F / D: 53.02F / RH: 61.0%\nWind: 11 G 17 mph\nUpdated: 05:30z"
+  Icon: 0, 0, 15, 1, 4, "EW7290 Fairfax\nT: 67.0F / D: 53.02F / RH: 61.0%\nWind: 11 G 17 mph\nUpdated: 05:30z"
 End:
 
 Object: 41.19367, -101.49433
   Color: 255 255 255
-  Text: -14, 12, 1, "68"
+  Text: -14, 12, 1, "67"
   Color: 255 255 255
-  Text: -14, -12, 1, "51"
+  Text: -14, -12, 1, "48"
   Color: 255 255 255
-  Text: 14, 12, 1, "55"
+  Text: 14, 12, 1, "50"
   Color: 255 255 100
-  Text: 14, -12, 1, "3"
+  Text: 14, -12, 1, "10"
   Color: 255 255 255
-  Icon: 0, 0, 131, 1, 2, "EW7246 Keystone\nT: 68.0F / D: 51.15F / RH: 55.0%\nWind: 0 G 3 mph\nUpdated: 05:15z"
-  Icon: 0, 0, 131, 1, 2, "EW7246 Keystone\nT: 68.0F / D: 51.15F / RH: 55.0%\nWind: 0 G 3 mph\nUpdated: 05:15z"
+  Icon: 0, 0, 76, 1, 2, "EW7246 Keystone\nT: 67.0F / D: 47.66F / RH: 50.0%\nWind: 3 G 10 mph\nUpdated: 05:30z"
+  Icon: 0, 0, 76, 1, 2, "EW7246 Keystone\nT: 67.0F / D: 47.66F / RH: 50.0%\nWind: 3 G 10 mph\nUpdated: 05:30z"
 End:
 
 Object: 41.80850, -99.76483
@@ -126,7 +126,7 @@ Object: 41.80850, -99.76483
   Color: 255 255 100
   Text: 14, -12, 1, "7"
   Color: 255 255 255
-  Icon: 0, 0, 130, 1, 2, "GW4507 ANSELMO\nT: 68.0F / D: 47.48F / RH: 48.0%\nWind: 4 G 7 mph\nUpdated: 05:15z"
-  Icon: 0, 0, 130, 1, 2, "GW4507 ANSELMO\nT: 68.0F / D: 47.48F / RH: 48.0%\nWind: 4 G 7 mph\nUpdated: 05:15z"
+  Icon: 0, 0, 138, 1, 2, "GW4507 ANSELMO\nT: 68.0F / D: 47.48F / RH: 48.0%\nWind: 5 G 7 mph\nUpdated: 05:30z"
+  Icon: 0, 0, 138, 1, 3, "GW4507 ANSELMO\nT: 68.0F / D: 47.48F / RH: 48.0%\nWind: 5 G 7 mph\nUpdated: 05:30z"
 End:
 
