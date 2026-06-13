@@ -38,12 +38,12 @@ Object: 42.24333, -98.24200
   Color: 255 255 255
   Text: -14, -12, 1, "56"
   Color: 255 255 255
-  Text: 14, 12, 1, "85"
+  Text: 14, 12, 1, "84"
   Color: 255 255 100
-  Text: 14, -12, 1, "4"
+  Text: 14, -12, 1, "5"
   Color: 255 255 255
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 61.0F / D: 56.43F / RH: 85.0%\nWind: 0 G 4 mph\nUpdated: 13:30z"
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 61.0F / D: 56.43F / RH: 85.0%\nWind: 0 G 4 mph\nUpdated: 13:30z"
+  Icon: 0, 0, 351, 1, 2, "CW9774 Ewing\nT: 61.0F / D: 56.08F / RH: 84.0%\nWind: 1 G 5 mph\nUpdated: 13:40z"
+  Icon: 0, 0, 351, 1, 2, "CW9774 Ewing\nT: 61.0F / D: 56.08F / RH: 84.0%\nWind: 1 G 5 mph\nUpdated: 13:40z"
 End:
 
 Object: 42.7365, -99.73867
@@ -70,22 +70,22 @@ Object: 42.88330, -100.54131
   Color: 255 255 100
   Text: 14, -12, 1, "14"
   Color: 255 255 255
-  Icon: 0, 0, 5, 1, 2, "EW3958 Valentine\nT: 60.0F / D: 50.11F / RH: 70.0%\nWind: 6 G 14 mph\nUpdated: 13:30z"
-  Icon: 0, 0, 5, 1, 3, "EW3958 Valentine\nT: 60.0F / D: 50.11F / RH: 70.0%\nWind: 6 G 14 mph\nUpdated: 13:30z"
+  Icon: 0, 0, 7, 1, 2, "EW3958 Valentine\nT: 60.0F / D: 50.11F / RH: 70.0%\nWind: 7 G 14 mph\nUpdated: 13:35z"
+  Icon: 0, 0, 7, 1, 3, "EW3958 Valentine\nT: 60.0F / D: 50.11F / RH: 70.0%\nWind: 7 G 14 mph\nUpdated: 13:35z"
 End:
 
 Object: 41.19033, -100.74950
   Color: 255 255 255
   Text: -14, 12, 1, "64"
   Color: 255 255 255
-  Text: -14, -12, 1, "54"
+  Text: -14, -12, 1, "53"
   Color: 255 255 255
-  Text: 14, 12, 1, "69"
+  Text: 14, 12, 1, "68"
   Color: 255 255 100
-  Text: 14, -12, 1, "38"
+  Text: 14, -12, 1, "35"
   Color: 255 255 255
-  Icon: 0, 0, 42, 1, 2, "EW7235 North Platte\nT: 64.0F / D: 53.56F / RH: 69.0%\nWind: 22 G 38 mph\nUpdated: 13:30z"
-  Icon: 0, 0, 42, 1, 5, "EW7235 North Platte\nT: 64.0F / D: 53.56F / RH: 69.0%\nWind: 22 G 38 mph\nUpdated: 13:30z"
+  Icon: 0, 0, 40, 1, 2, "EW7235 North Platte\nT: 64.0F / D: 53.15F / RH: 68.0%\nWind: 22 G 35 mph\nUpdated: 13:40z"
+  Icon: 0, 0, 40, 1, 5, "EW7235 North Platte\nT: 64.0F / D: 53.15F / RH: 68.0%\nWind: 22 G 35 mph\nUpdated: 13:40z"
 End:
 
 Object: 43.02333, -98.90417
