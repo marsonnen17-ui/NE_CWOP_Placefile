@@ -34,16 +34,16 @@ End:
 
 Object: 42.24333, -98.24200
   Color: 255 255 255
-  Text: -14, 12, 1, "50"
+  Text: -14, 12, 1, "49"
   Color: 255 255 255
-  Text: -14, -12, 1, "45"
+  Text: -14, -12, 1, "44"
   Color: 255 255 255
   Text: 14, 12, 1, "83"
   Color: 255 255 100
   Text: 14, -12, 1, "4"
   Color: 255 255 255
-  Icon: 0, 0, 261, 1, 2, "CW9774 Ewing\nT: 50.0F / D: 44.98F / RH: 83.0%\nWind: 2 G 4 mph\nUpdated: 06:50z"
-  Icon: 0, 0, 261, 1, 2, "CW9774 Ewing\nT: 50.0F / D: 44.98F / RH: 83.0%\nWind: 2 G 4 mph\nUpdated: 06:50z"
+  Icon: 0, 0, 253, 1, 2, "CW9774 Ewing\nT: 49.0F / D: 44.01F / RH: 83.0%\nWind: 3 G 4 mph\nUpdated: 06:55z"
+  Icon: 0, 0, 253, 1, 2, "CW9774 Ewing\nT: 49.0F / D: 44.01F / RH: 83.0%\nWind: 3 G 4 mph\nUpdated: 06:55z"
 End:
 
 Object: 42.7365, -99.73867
@@ -68,10 +68,10 @@ Object: 42.88330, -100.54131
   Color: 255 255 255
   Text: 14, 12, 1, "65"
   Color: 255 255 100
-  Text: 14, -12, 1, "17"
+  Text: 14, -12, 1, "18"
   Color: 255 255 255
-  Icon: 0, 0, 306, 1, 2, "EW3958 Valentine\nT: 51.0F / D: 39.54F / RH: 65.0%\nWind: 13 G 17 mph\nUpdated: 06:50z"
-  Icon: 0, 0, 306, 1, 4, "EW3958 Valentine\nT: 51.0F / D: 39.54F / RH: 65.0%\nWind: 13 G 17 mph\nUpdated: 06:50z"
+  Icon: 0, 0, 307, 1, 2, "EW3958 Valentine\nT: 51.0F / D: 39.54F / RH: 65.0%\nWind: 13 G 18 mph\nUpdated: 06:55z"
+  Icon: 0, 0, 307, 1, 4, "EW3958 Valentine\nT: 51.0F / D: 39.54F / RH: 65.0%\nWind: 13 G 18 mph\nUpdated: 06:55z"
 End:
 
 Object: 41.19033, -100.74950
@@ -84,8 +84,8 @@ Object: 41.19033, -100.74950
   Color: 255 255 100
   Text: 14, -12, 1, "9"
   Color: 255 255 255
-  Icon: 0, 0, 317, 1, 2, "EW7235 North Platte\nT: 51.0F / D: 41.47F / RH: 70.0%\nWind: 4 G 9 mph\nUpdated: 06:50z"
-  Icon: 0, 0, 317, 1, 2, "EW7235 North Platte\nT: 51.0F / D: 41.47F / RH: 70.0%\nWind: 4 G 9 mph\nUpdated: 06:50z"
+  Icon: 0, 0, 11, 1, 2, "EW7235 North Platte\nT: 51.0F / D: 41.47F / RH: 70.0%\nWind: 4 G 9 mph\nUpdated: 06:55z"
+  Icon: 0, 0, 11, 1, 2, "EW7235 North Platte\nT: 51.0F / D: 41.47F / RH: 70.0%\nWind: 4 G 9 mph\nUpdated: 06:55z"
 End:
 
 Object: 43.02333, -98.90417
