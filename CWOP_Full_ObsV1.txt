@@ -38,12 +38,12 @@ Object: 42.24333, -98.24200
   Color: 255 255 255
   Text: -14, -12, 1, "50"
   Color: 255 255 255
-  Text: 14, 12, 1, "50"
+  Text: 14, 12, 1, "51"
   Color: 255 255 100
-  Text: 14, -12, 1, "18"
+  Text: 14, -12, 1, "21"
   Color: 255 255 255
-  Icon: 0, 0, 29, 1, 2, "CW9774 Ewing\nT: 69.0F / D: 49.5F / RH: 50.0%\nWind: 12 G 18 mph\nUpdated: 00:05z"
-  Icon: 0, 0, 29, 1, 4, "CW9774 Ewing\nT: 69.0F / D: 49.5F / RH: 50.0%\nWind: 12 G 18 mph\nUpdated: 00:05z"
+  Icon: 0, 0, 352, 1, 2, "CW9774 Ewing\nT: 69.0F / D: 50.04F / RH: 51.0%\nWind: 12 G 21 mph\nUpdated: 00:10z"
+  Icon: 0, 0, 352, 1, 4, "CW9774 Ewing\nT: 69.0F / D: 50.04F / RH: 51.0%\nWind: 12 G 21 mph\nUpdated: 00:10z"
 End:
 
 Object: 42.7365, -99.73867
@@ -68,10 +68,10 @@ Object: 42.88330, -100.54131
   Color: 255 255 255
   Text: 14, 12, 1, "45"
   Color: 255 255 100
-  Text: 14, -12, 1, "26"
+  Text: 14, -12, 1, "23"
   Color: 255 255 255
-  Icon: 0, 0, 324, 1, 2, "EW3958 Valentine\nT: 65.0F / D: 43.03F / RH: 45.0%\nWind: 17 G 26 mph\nUpdated: 00:05z"
-  Icon: 0, 0, 324, 1, 5, "EW3958 Valentine\nT: 65.0F / D: 43.03F / RH: 45.0%\nWind: 17 G 26 mph\nUpdated: 00:05z"
+  Icon: 0, 0, 325, 1, 2, "EW3958 Valentine\nT: 65.0F / D: 43.03F / RH: 45.0%\nWind: 15 G 23 mph\nUpdated: 00:10z"
+  Icon: 0, 0, 325, 1, 4, "EW3958 Valentine\nT: 65.0F / D: 43.03F / RH: 45.0%\nWind: 15 G 23 mph\nUpdated: 00:10z"
 End:
 
 Object: 41.19033, -100.74950
@@ -84,8 +84,8 @@ Object: 41.19033, -100.74950
   Color: 255 255 100
   Text: 14, -12, 1, "26"
   Color: 255 255 255
-  Icon: 0, 0, 34, 1, 2, "EW7235 North Platte\nT: 69.0F / D: 44.87F / RH: 42.0%\nWind: 17 G 26 mph\nUpdated: 00:05z"
-  Icon: 0, 0, 34, 1, 5, "EW7235 North Platte\nT: 69.0F / D: 44.87F / RH: 42.0%\nWind: 17 G 26 mph\nUpdated: 00:05z"
+  Icon: 0, 0, 35, 1, 2, "EW7235 North Platte\nT: 69.0F / D: 44.87F / RH: 42.0%\nWind: 20 G 26 mph\nUpdated: 00:10z"
+  Icon: 0, 0, 35, 1, 5, "EW7235 North Platte\nT: 69.0F / D: 44.87F / RH: 42.0%\nWind: 20 G 26 mph\nUpdated: 00:10z"
 End:
 
 Object: 43.02333, -98.90417
