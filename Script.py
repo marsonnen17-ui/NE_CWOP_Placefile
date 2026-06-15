@@ -8,7 +8,7 @@ FILENAME = "CWOP_Full_ObsV1.txt"
 ICON_URL = "https://raw.githubusercontent.com/marsonnen17-ui/NE_CWOP_Placefile/main/wind_barbs_V4_64.png"
 
 # Priority Stations
-TARGET_STIDS = ["E7235", "G4507", "C9774", "E7290", "D4989", "E3958", "E7246", "AR970", "C2360"]
+TARGET_STIDS = ["E7235", "G4507", "C9774", "E7290", "D4989", "E3958", "E7246", "AR970", "C2360", "E5818"]
 
 API_URL = f"https://api.synopticdata.com/v2/stations/latest?token={TOKEN}&networks={NETWORK}&units=english"
 
