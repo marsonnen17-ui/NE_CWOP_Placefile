@@ -20,16 +20,16 @@ End:
 
 Object: 42.24333, -98.24200
   Color: 255 255 255
-  Text: -14, 12, 1, "80"
+  Text: -14, 12, 1, "79"
   Color: 255 255 255
   Text: -14, -12, 1, "67"
   Color: 255 255 255
-  Text: 14, 12, 1, "65"
+  Text: 14, 12, 1, "66"
   Color: 255 255 100
   Text: 14, -12, 1, "7"
   Color: 255 255 255
-  Icon: 0, 0, 190, 1, 2, "CW9774 Ewing\nT: 80.0F / D: 67.17F / RH: 65.0%\nWind: 4 G 7 mph\nUpdated: 23:45z"
-  Icon: 0, 0, 190, 1, 2, "CW9774 Ewing\nT: 80.0F / D: 67.17F / RH: 65.0%\nWind: 4 G 7 mph\nUpdated: 23:45z"
+  Icon: 0, 0, 80, 1, 2, "CW9774 Ewing\nT: 79.0F / D: 66.65F / RH: 66.0%\nWind: 2 G 7 mph\nUpdated: 23:50z"
+  Icon: 0, 0, 80, 1, 2, "CW9774 Ewing\nT: 79.0F / D: 66.65F / RH: 66.0%\nWind: 2 G 7 mph\nUpdated: 23:50z"
 End:
 
 Object: 42.7365, -99.73867
@@ -54,10 +54,10 @@ Object: 42.88330, -100.54131
   Color: 255 255 255
   Text: 14, 12, 1, "63"
   Color: 255 255 100
-  Text: 14, -12, 1, "11"
+  Text: 14, -12, 1, "14"
   Color: 255 255 255
-  Icon: 0, 0, 345, 1, 2, "EW3958 Valentine\nT: 73.0F / D: 59.61F / RH: 63.0%\nWind: 7 G 11 mph\nUpdated: 23:45z"
-  Icon: 0, 0, 345, 1, 3, "EW3958 Valentine\nT: 73.0F / D: 59.61F / RH: 63.0%\nWind: 7 G 11 mph\nUpdated: 23:45z"
+  Icon: 0, 0, 338, 1, 2, "EW3958 Valentine\nT: 73.0F / D: 59.61F / RH: 63.0%\nWind: 7 G 14 mph\nUpdated: 23:50z"
+  Icon: 0, 0, 338, 1, 3, "EW3958 Valentine\nT: 73.0F / D: 59.61F / RH: 63.0%\nWind: 7 G 14 mph\nUpdated: 23:50z"
 End:
 
 Object: 41.20460, -100.93219
@@ -84,8 +84,8 @@ Object: 41.19033, -100.74950
   Color: 255 255 100
   Text: 14, -12, 1, "7"
   Color: 255 255 255
-  Icon: 0, 0, 100, 1, 2, "EW7235 North Platte\nT: 75.0F / D: 63.27F / RH: 67.0%\nWind: 6 G 7 mph\nUpdated: 23:45z"
-  Icon: 0, 0, 100, 1, 3, "EW7235 North Platte\nT: 75.0F / D: 63.27F / RH: 67.0%\nWind: 6 G 7 mph\nUpdated: 23:45z"
+  Icon: 0, 0, 97, 1, 2, "EW7235 North Platte\nT: 75.0F / D: 63.27F / RH: 67.0%\nWind: 4 G 7 mph\nUpdated: 23:50z"
+  Icon: 0, 0, 97, 1, 2, "EW7235 North Platte\nT: 75.0F / D: 63.27F / RH: 67.0%\nWind: 4 G 7 mph\nUpdated: 23:50z"
 End:
 
 Object: 43.02333, -98.90417
