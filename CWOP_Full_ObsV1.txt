@@ -28,8 +28,8 @@ Object: 42.24333, -98.24200
   Color: 255 255 100
   Text: 14, -12, 1, "0"
   Color: 255 255 255
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 66.0F / D: 64.51F / RH: 95.0%\nWind: 0 G 0 mph\nUpdated: 05:20z"
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 66.0F / D: 64.51F / RH: 95.0%\nWind: 0 G 0 mph\nUpdated: 05:20z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 66.0F / D: 64.51F / RH: 95.0%\nWind: 0 G 0 mph\nUpdated: 05:25z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 66.0F / D: 64.51F / RH: 95.0%\nWind: 0 G 0 mph\nUpdated: 05:25z"
 End:
 
 Object: 42.7365, -99.73867
@@ -50,14 +50,14 @@ Object: 42.88330, -100.54131
   Color: 255 255 255
   Text: -14, 12, 1, "61"
   Color: 255 255 255
-  Text: -14, -12, 1, "60"
+  Text: -14, -12, 1, "59"
   Color: 255 255 255
-  Text: 14, 12, 1, "95"
+  Text: 14, 12, 1, "94"
   Color: 255 255 100
   Text: 14, -12, 1, "2"
   Color: 255 255 255
-  Icon: 0, 0, 322, 1, 2, "EW3958 Valentine\nT: 61.0F / D: 59.54F / RH: 95.0%\nWind: 0 G 2 mph\nUpdated: 05:20z"
-  Icon: 0, 0, 322, 1, 2, "EW3958 Valentine\nT: 61.0F / D: 59.54F / RH: 95.0%\nWind: 0 G 2 mph\nUpdated: 05:20z"
+  Icon: 0, 0, 321, 1, 2, "EW3958 Valentine\nT: 61.0F / D: 59.25F / RH: 94.0%\nWind: 1 G 2 mph\nUpdated: 05:25z"
+  Icon: 0, 0, 321, 1, 2, "EW3958 Valentine\nT: 61.0F / D: 59.25F / RH: 94.0%\nWind: 1 G 2 mph\nUpdated: 05:25z"
 End:
 
 Object: 41.20460, -100.93219
@@ -82,10 +82,10 @@ Object: 41.19033, -100.74950
   Color: 255 255 255
   Text: 14, 12, 1, "87"
   Color: 255 255 100
-  Text: 14, -12, 1, "5"
+  Text: 14, -12, 1, "6"
   Color: 255 255 255
-  Icon: 0, 0, 140, 1, 2, "EW7235 North Platte\nT: 67.0F / D: 62.98F / RH: 87.0%\nWind: 3 G 5 mph\nUpdated: 05:20z"
-  Icon: 0, 0, 140, 1, 2, "EW7235 North Platte\nT: 67.0F / D: 62.98F / RH: 87.0%\nWind: 3 G 5 mph\nUpdated: 05:20z"
+  Icon: 0, 0, 159, 1, 2, "EW7235 North Platte\nT: 67.0F / D: 62.98F / RH: 87.0%\nWind: 4 G 6 mph\nUpdated: 05:25z"
+  Icon: 0, 0, 159, 1, 2, "EW7235 North Platte\nT: 67.0F / D: 62.98F / RH: 87.0%\nWind: 4 G 6 mph\nUpdated: 05:25z"
 End:
 
 Object: 43.02333, -98.90417
