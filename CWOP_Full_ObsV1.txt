@@ -82,10 +82,10 @@ Object: 41.19033, -100.74950
   Color: 255 255 255
   Text: 14, 12, 1, "88"
   Color: 255 255 100
-  Text: 14, -12, 1, "5"
+  Text: 14, -12, 1, "4"
   Color: 255 255 255
-  Icon: 0, 0, 236, 1, 2, "EW7235 North Platte\nT: 62.0F / D: 58.37F / RH: 88.0%\nWind: 1 G 5 mph\nUpdated: 07:35z"
-  Icon: 0, 0, 236, 1, 2, "EW7235 North Platte\nT: 62.0F / D: 58.37F / RH: 88.0%\nWind: 1 G 5 mph\nUpdated: 07:35z"
+  Icon: 0, 0, 0, 1, 2, "EW7235 North Platte\nT: 62.0F / D: 58.37F / RH: 88.0%\nWind: 0 G 4 mph\nUpdated: 07:40z"
+  Icon: 0, 0, 0, 1, 2, "EW7235 North Platte\nT: 62.0F / D: 58.37F / RH: 88.0%\nWind: 0 G 4 mph\nUpdated: 07:40z"
 End:
 
 Object: 43.02333, -98.90417
