@@ -26,10 +26,10 @@ Object: 42.24333, -98.24200
   Color: 255 255 255
   Text: 14, 12, 1, "55"
   Color: 255 255 100
-  Text: 14, -12, 1, "12"
+  Text: 14, -12, 1, "14"
   Color: 255 255 255
-  Icon: 0, 0, 179, 1, 2, "CW9774 Ewing\nT: 86.0F / D: 67.98F / RH: 55.0%\nWind: 4 G 12 mph\nUpdated: 21:35z"
-  Icon: 0, 0, 179, 1, 2, "CW9774 Ewing\nT: 86.0F / D: 67.98F / RH: 55.0%\nWind: 4 G 12 mph\nUpdated: 21:35z"
+  Icon: 0, 0, 138, 1, 2, "CW9774 Ewing\nT: 86.0F / D: 67.98F / RH: 55.0%\nWind: 3 G 14 mph\nUpdated: 21:40z"
+  Icon: 0, 0, 138, 1, 2, "CW9774 Ewing\nT: 86.0F / D: 67.98F / RH: 55.0%\nWind: 3 G 14 mph\nUpdated: 21:40z"
 End:
 
 Object: 42.7365, -99.73867
@@ -56,8 +56,8 @@ Object: 42.88330, -100.54131
   Color: 255 255 100
   Text: 14, -12, 1, "21"
   Color: 255 255 255
-  Icon: 0, 0, 202, 1, 2, "EW3958 Valentine\nT: 88.0F / D: 66.51F / RH: 49.0%\nWind: 12 G 21 mph\nUpdated: 21:35z"
-  Icon: 0, 0, 202, 1, 4, "EW3958 Valentine\nT: 88.0F / D: 66.51F / RH: 49.0%\nWind: 12 G 21 mph\nUpdated: 21:35z"
+  Icon: 0, 0, 197, 1, 2, "EW3958 Valentine\nT: 88.0F / D: 66.51F / RH: 49.0%\nWind: 11 G 21 mph\nUpdated: 21:40z"
+  Icon: 0, 0, 197, 1, 4, "EW3958 Valentine\nT: 88.0F / D: 66.51F / RH: 49.0%\nWind: 11 G 21 mph\nUpdated: 21:40z"
 End:
 
 Object: 41.20460, -100.93219
@@ -80,12 +80,12 @@ Object: 41.19033, -100.74950
   Color: 255 255 255
   Text: -14, -12, 1, "71"
   Color: 255 255 255
-  Text: 14, 12, 1, "57"
+  Text: 14, 12, 1, "58"
   Color: 255 255 100
-  Text: 14, -12, 1, "18"
+  Text: 14, -12, 1, "17"
   Color: 255 255 255
-  Icon: 0, 0, 115, 1, 2, "EW7235 North Platte\nT: 88.0F / D: 70.9F / RH: 57.0%\nWind: 13 G 18 mph\nUpdated: 21:35z"
-  Icon: 0, 0, 115, 1, 4, "EW7235 North Platte\nT: 88.0F / D: 70.9F / RH: 57.0%\nWind: 13 G 18 mph\nUpdated: 21:35z"
+  Icon: 0, 0, 127, 1, 2, "EW7235 North Platte\nT: 88.0F / D: 71.42F / RH: 58.0%\nWind: 10 G 17 mph\nUpdated: 21:40z"
+  Icon: 0, 0, 127, 1, 4, "EW7235 North Platte\nT: 88.0F / D: 71.42F / RH: 58.0%\nWind: 10 G 17 mph\nUpdated: 21:40z"
 End:
 
 Object: 43.02333, -98.90417
