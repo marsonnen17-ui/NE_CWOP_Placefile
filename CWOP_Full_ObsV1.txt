@@ -28,8 +28,8 @@ Object: 42.24333, -98.24200
   Color: 255 255 100
   Text: 14, -12, 1, "2"
   Color: 255 255 255
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 68.0F / D: 67.41F / RH: 98.0%\nWind: 0 G 2 mph\nUpdated: 11:30z"
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 68.0F / D: 67.41F / RH: 98.0%\nWind: 0 G 2 mph\nUpdated: 11:30z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 68.0F / D: 67.41F / RH: 98.0%\nWind: 0 G 2 mph\nUpdated: 11:35z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 68.0F / D: 67.41F / RH: 98.0%\nWind: 0 G 2 mph\nUpdated: 11:35z"
 End:
 
 Object: 42.7365, -99.73867
@@ -48,16 +48,16 @@ End:
 
 Object: 42.88330, -100.54131
   Color: 255 255 255
-  Text: -14, 12, 1, "70"
+  Text: -14, 12, 1, "71"
   Color: 255 255 255
-  Text: -14, -12, 1, "65"
+  Text: -14, -12, 1, "66"
   Color: 255 255 255
-  Text: 14, 12, 1, "85"
+  Text: 14, 12, 1, "84"
   Color: 255 255 100
-  Text: 14, -12, 1, "14"
+  Text: 14, -12, 1, "15"
   Color: 255 255 255
-  Icon: 0, 0, 298, 1, 2, "EW3958 Valentine\nT: 70.0F / D: 65.26F / RH: 85.0%\nWind: 10 G 14 mph\nUpdated: 11:30z"
-  Icon: 0, 0, 298, 1, 4, "EW3958 Valentine\nT: 70.0F / D: 65.26F / RH: 85.0%\nWind: 10 G 14 mph\nUpdated: 11:30z"
+  Icon: 0, 0, 298, 1, 2, "EW3958 Valentine\nT: 71.0F / D: 65.89F / RH: 84.0%\nWind: 11 G 15 mph\nUpdated: 11:35z"
+  Icon: 0, 0, 298, 1, 4, "EW3958 Valentine\nT: 71.0F / D: 65.89F / RH: 84.0%\nWind: 11 G 15 mph\nUpdated: 11:35z"
 End:
 
 Object: 41.20460, -100.93219
@@ -84,8 +84,8 @@ Object: 41.19033, -100.74950
   Color: 255 255 100
   Text: 14, -12, 1, "5"
   Color: 255 255 255
-  Icon: 0, 0, 263, 1, 2, "EW7235 North Platte\nT: 65.0F / D: 59.67F / RH: 83.0%\nWind: 3 G 5 mph\nUpdated: 11:30z"
-  Icon: 0, 0, 263, 1, 2, "EW7235 North Platte\nT: 65.0F / D: 59.67F / RH: 83.0%\nWind: 3 G 5 mph\nUpdated: 11:30z"
+  Icon: 0, 0, 274, 1, 2, "EW7235 North Platte\nT: 65.0F / D: 59.67F / RH: 83.0%\nWind: 4 G 5 mph\nUpdated: 11:35z"
+  Icon: 0, 0, 274, 1, 2, "EW7235 North Platte\nT: 65.0F / D: 59.67F / RH: 83.0%\nWind: 4 G 5 mph\nUpdated: 11:35z"
 End:
 
 Object: 43.02333, -98.90417
