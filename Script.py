@@ -8,7 +8,7 @@ TOKEN = os.getenv("SYNOPTIC_TOKEN")
 
 # Safety check: Stop early if the secret wasn't passed properly
 if not TOKEN:
-    raise ValueError("ERROR: SYNOPTIC_TOKEN environment variable is missing!"
+    raise ValueError("ERROR: SYNOPTIC_TOKEN environment variable is missing!")
                      
 NETWORK = "65"  # CWOP Network
 FILENAME = "CWOP_Full_ObsV1.txt"
