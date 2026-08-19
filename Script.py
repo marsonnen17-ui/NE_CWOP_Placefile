@@ -1,8 +1,15 @@
 import requests
+import os
 from datetime import datetime
 
 # --- AUTHORIZED CONFIG ---
-TOKEN = "c7306341deaa4ddbabfb4d777fc8b2c9"
+# Fetch the secret from the environment
+TOKEN = os.getenv("SYNOPTIC_TOKEN")
+
+# Safety check: Stop early if the secret wasn't passed properly
+if not TOKEN:
+    raise ValueError("ERROR: SYNOPTIC_TOKEN environment variable is missing!"
+                     
 NETWORK = "65"  # CWOP Network
 FILENAME = "CWOP_Full_ObsV1.txt"
 ICON_URL = "https://raw.githubusercontent.com/marsonnen17-ui/NE_CWOP_Placefile/main/wind_barbs_V4_64.png"
