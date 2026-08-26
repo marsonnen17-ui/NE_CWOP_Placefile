@@ -28,8 +28,8 @@ Object: 42.24333, -98.24200
   Color: 255 255 100
   Text: 14, -12, 1, "0"
   Color: 255 255 255
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 74.0F / D: 65.55F / RH: 75.0%\nWind: 0 G 0 mph\nUpdated: 02:00z"
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 74.0F / D: 65.55F / RH: 75.0%\nWind: 0 G 0 mph\nUpdated: 02:00z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 74.0F / D: 65.55F / RH: 75.0%\nWind: 0 G 0 mph\nUpdated: 02:05z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 74.0F / D: 65.55F / RH: 75.0%\nWind: 0 G 0 mph\nUpdated: 02:05z"
 End:
 
 Object: 42.7365, -99.73867
@@ -62,16 +62,16 @@ End:
 
 Object: 41.20460, -100.93219
   Color: 255 255 255
-  Text: -14, 12, 1, "88"
+  Text: -14, 12, 1, "77"
   Color: 255 255 255
   Text: -14, -12, 1, "65"
   Color: 255 255 255
-  Text: 14, 12, 1, "46"
+  Text: 14, 12, 1, "67"
   Color: 255 255 100
-  Text: 14, -12, 1, "6"
+  Text: 14, -12, 1, "2"
   Color: 255 255 255
-  Icon: 0, 0, 87, 1, 2, "EW5818 North Platte\nT: 88.0F / D: 64.69F / RH: 46.0%\nWind: 3 G 6 mph\nUpdated: 23:35z"
-  Icon: 0, 0, 87, 1, 2, "EW5818 North Platte\nT: 88.0F / D: 64.69F / RH: 46.0%\nWind: 3 G 6 mph\nUpdated: 23:35z"
+  Icon: 0, 0, 76, 1, 2, "EW5818 North Platte\nT: 77.0F / D: 65.17F / RH: 67.0%\nWind: 1 G 2 mph\nUpdated: 02:05z"
+  Icon: 0, 0, 76, 1, 2, "EW5818 North Platte\nT: 77.0F / D: 65.17F / RH: 67.0%\nWind: 1 G 2 mph\nUpdated: 02:05z"
 End:
 
 Object: 41.19033, -100.74950
@@ -80,12 +80,12 @@ Object: 41.19033, -100.74950
   Color: 255 255 255
   Text: -14, -12, 1, "62"
   Color: 255 255 255
-  Text: 14, 12, 1, "57"
+  Text: 14, 12, 1, "58"
   Color: 255 255 100
   Text: 14, -12, 1, "5"
   Color: 255 255 255
-  Icon: 0, 0, 63, 1, 2, "EW7235 North Platte\nT: 78.0F / D: 61.52F / RH: 57.0%\nWind: 4 G 5 mph\nUpdated: 02:01z"
-  Icon: 0, 0, 63, 1, 2, "EW7235 North Platte\nT: 78.0F / D: 61.52F / RH: 57.0%\nWind: 4 G 5 mph\nUpdated: 02:01z"
+  Icon: 0, 0, 57, 1, 2, "EW7235 North Platte\nT: 78.0F / D: 62.01F / RH: 58.0%\nWind: 4 G 5 mph\nUpdated: 02:05z"
+  Icon: 0, 0, 57, 1, 2, "EW7235 North Platte\nT: 78.0F / D: 62.01F / RH: 58.0%\nWind: 4 G 5 mph\nUpdated: 02:05z"
 End:
 
 Object: 43.02333, -98.90417
