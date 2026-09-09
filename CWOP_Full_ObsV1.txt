@@ -28,8 +28,8 @@ Object: 42.24333, -98.24200
   Color: 255 255 100
   Text: 14, -12, 1, "0"
   Color: 255 255 255
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 65.0F / D: 60.01F / RH: 84.0%\nWind: 0 G 0 mph\nUpdated: 04:01z"
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 65.0F / D: 60.01F / RH: 84.0%\nWind: 0 G 0 mph\nUpdated: 04:01z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 65.0F / D: 60.01F / RH: 84.0%\nWind: 0 G 0 mph\nUpdated: 04:10z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 65.0F / D: 60.01F / RH: 84.0%\nWind: 0 G 0 mph\nUpdated: 04:10z"
 End:
 
 Object: 42.7365, -99.73867
@@ -48,16 +48,16 @@ End:
 
 Object: 42.88330, -100.54131
   Color: 255 255 255
-  Text: -14, 12, 1, "59"
+  Text: -14, 12, 1, "58"
   Color: 255 255 255
   Text: -14, -12, 1, "51"
   Color: 255 255 255
-  Text: 14, 12, 1, "75"
+  Text: 14, 12, 1, "78"
   Color: 255 255 100
   Text: 14, -12, 1, "0"
   Color: 255 255 255
-  Icon: 0, 0, 0, 1, 2, "EW3958 Valentine\nT: 59.0F / D: 51.03F / RH: 75.0%\nWind: 0 G 0 mph\nUpdated: 04:00z"
-  Icon: 0, 0, 0, 1, 2, "EW3958 Valentine\nT: 59.0F / D: 51.03F / RH: 75.0%\nWind: 0 G 0 mph\nUpdated: 04:00z"
+  Icon: 0, 0, 0, 1, 2, "EW3958 Valentine\nT: 58.0F / D: 51.12F / RH: 78.0%\nWind: 0 G 0 mph\nUpdated: 04:05z"
+  Icon: 0, 0, 0, 1, 2, "EW3958 Valentine\nT: 58.0F / D: 51.12F / RH: 78.0%\nWind: 0 G 0 mph\nUpdated: 04:05z"
 End:
 
 Object: 41.20460, -100.93219
