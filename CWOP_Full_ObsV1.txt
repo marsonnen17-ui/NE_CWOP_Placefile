@@ -28,8 +28,8 @@ Object: 42.24333, -98.24200
   Color: 255 255 100
   Text: 14, -12, 1, "31"
   Color: 255 255 255
-  Icon: 0, 0, 157, 1, 2, "CW9774 Ewing\nT: 87.0F / D: 72.43F / RH: 62.0%\nWind: 18 G 31 mph\nUpdated: 20:45z"
-  Icon: 0, 0, 157, 1, 5, "CW9774 Ewing\nT: 87.0F / D: 72.43F / RH: 62.0%\nWind: 18 G 31 mph\nUpdated: 20:45z"
+  Icon: 0, 0, 190, 1, 2, "CW9774 Ewing\nT: 87.0F / D: 72.43F / RH: 62.0%\nWind: 14 G 31 mph\nUpdated: 20:50z"
+  Icon: 0, 0, 190, 1, 4, "CW9774 Ewing\nT: 87.0F / D: 72.43F / RH: 62.0%\nWind: 14 G 31 mph\nUpdated: 20:50z"
 End:
 
 Object: 42.7365, -99.73867
@@ -50,14 +50,14 @@ Object: 42.88330, -100.54131
   Color: 255 255 255
   Text: -14, 12, 1, "93"
   Color: 255 255 255
-  Text: -14, -12, 1, "35"
+  Text: -14, -12, 1, "37"
   Color: 253 103 58
-  Text: 14, 12, 1, "13"
+  Text: 14, 12, 1, "14"
   Color: 255 255 100
-  Text: 14, -12, 1, "26"
+  Text: 14, -12, 1, "31"
   Color: 255 255 255
-  Icon: 0, 0, 300, 1, 2, "EW3958 Valentine\nT: 93.0F / D: 35.26F / RH: 13.0%\nWind: 20 G 26 mph\nUpdated: 20:45z"
-  Icon: 0, 0, 300, 1, 5, "EW3958 Valentine\nT: 93.0F / D: 35.26F / RH: 13.0%\nWind: 20 G 26 mph\nUpdated: 20:45z"
+  Icon: 0, 0, 303, 1, 2, "EW3958 Valentine\nT: 93.0F / D: 37.11F / RH: 14.0%\nWind: 20 G 31 mph\nUpdated: 20:50z"
+  Icon: 0, 0, 303, 1, 5, "EW3958 Valentine\nT: 93.0F / D: 37.11F / RH: 14.0%\nWind: 20 G 31 mph\nUpdated: 20:50z"
 End:
 
 Object: 41.20460, -100.93219
@@ -76,16 +76,16 @@ End:
 
 Object: 41.19033, -100.74950
   Color: 255 255 255
-  Text: -14, 12, 1, "89"
+  Text: -14, 12, 1, "90"
   Color: 255 255 255
-  Text: -14, -12, 1, "55"
+  Text: -14, -12, 1, "56"
   Color: 255 255 255
-  Text: 14, 12, 1, "31"
+  Text: 14, 12, 1, "32"
   Color: 255 255 100
-  Text: 14, -12, 1, "15"
+  Text: 14, -12, 1, "14"
   Color: 255 255 255
-  Icon: 0, 0, 211, 1, 2, "EW7235 North Platte\nT: 89.0F / D: 54.55F / RH: 31.0%\nWind: 12 G 15 mph\nUpdated: 20:45z"
-  Icon: 0, 0, 211, 1, 4, "EW7235 North Platte\nT: 89.0F / D: 54.55F / RH: 31.0%\nWind: 12 G 15 mph\nUpdated: 20:45z"
+  Icon: 0, 0, 200, 1, 2, "EW7235 North Platte\nT: 90.0F / D: 56.3F / RH: 32.0%\nWind: 10 G 14 mph\nUpdated: 20:50z"
+  Icon: 0, 0, 200, 1, 4, "EW7235 North Platte\nT: 90.0F / D: 56.3F / RH: 32.0%\nWind: 10 G 14 mph\nUpdated: 20:50z"
 End:
 
 Object: 43.02333, -98.90417
