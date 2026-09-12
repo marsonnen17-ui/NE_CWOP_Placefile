@@ -50,14 +50,14 @@ Object: 42.88330, -100.54131
   Color: 255 255 255
   Text: -14, 12, 1, "70"
   Color: 255 255 255
-  Text: -14, -12, 1, "41"
+  Text: -14, -12, 1, "42"
   Color: 255 255 255
-  Text: 14, 12, 1, "35"
+  Text: 14, 12, 1, "37"
   Color: 255 255 100
-  Text: 14, -12, 1, "6"
+  Text: 14, -12, 1, "7"
   Color: 255 255 255
-  Icon: 0, 0, 90, 1, 2, "EW3958 Valentine\nT: 70.0F / D: 41.0F / RH: 35.0%\nWind: 4 G 6 mph\nUpdated: 23:30z"
-  Icon: 0, 0, 90, 1, 2, "EW3958 Valentine\nT: 70.0F / D: 41.0F / RH: 35.0%\nWind: 4 G 6 mph\nUpdated: 23:30z"
+  Icon: 0, 0, 97, 1, 2, "EW3958 Valentine\nT: 70.0F / D: 42.44F / RH: 37.0%\nWind: 4 G 7 mph\nUpdated: 23:35z"
+  Icon: 0, 0, 97, 1, 2, "EW3958 Valentine\nT: 70.0F / D: 42.44F / RH: 37.0%\nWind: 4 G 7 mph\nUpdated: 23:35z"
 End:
 
 Object: 41.20460, -100.93219
