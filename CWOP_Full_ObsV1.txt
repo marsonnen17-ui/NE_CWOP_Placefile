@@ -26,10 +26,10 @@ Object: 42.24333, -98.24200
   Color: 255 255 255
   Text: 14, 12, 1, "77"
   Color: 255 255 100
-  Text: 14, -12, 1, "4"
+  Text: 14, -12, 1, "5"
   Color: 255 255 255
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 58.0F / D: 50.77F / RH: 77.0%\nWind: 0 G 4 mph\nUpdated: 14:15z"
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 58.0F / D: 50.77F / RH: 77.0%\nWind: 0 G 4 mph\nUpdated: 14:15z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 58.0F / D: 50.77F / RH: 77.0%\nWind: 0 G 5 mph\nUpdated: 14:25z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 58.0F / D: 50.77F / RH: 77.0%\nWind: 0 G 5 mph\nUpdated: 14:25z"
 End:
 
 Object: 42.7365, -99.73867
@@ -48,16 +48,16 @@ End:
 
 Object: 42.88330, -100.54131
   Color: 255 255 255
-  Text: -14, 12, 1, "54"
+  Text: -14, 12, 1, "55"
   Color: 255 255 255
-  Text: -14, -12, 1, "44"
+  Text: -14, -12, 1, "45"
   Color: 255 255 255
-  Text: 14, 12, 1, "70"
+  Text: 14, 12, 1, "69"
   Color: 255 255 100
   Text: 14, -12, 1, "14"
   Color: 255 255 255
-  Icon: 0, 0, 332, 1, 2, "EW3958 Valentine\nT: 54.0F / D: 44.35F / RH: 70.0%\nWind: 11 G 14 mph\nUpdated: 14:20z"
-  Icon: 0, 0, 332, 1, 4, "EW3958 Valentine\nT: 54.0F / D: 44.35F / RH: 70.0%\nWind: 11 G 14 mph\nUpdated: 14:20z"
+  Icon: 0, 0, 331, 1, 2, "EW3958 Valentine\nT: 55.0F / D: 44.92F / RH: 69.0%\nWind: 11 G 14 mph\nUpdated: 14:25z"
+  Icon: 0, 0, 331, 1, 4, "EW3958 Valentine\nT: 55.0F / D: 44.92F / RH: 69.0%\nWind: 11 G 14 mph\nUpdated: 14:25z"
 End:
 
 Object: 41.20460, -100.93219
@@ -84,8 +84,8 @@ Object: 41.19033, -100.74950
   Color: 255 255 100
   Text: 14, -12, 1, "20"
   Color: 255 255 255
-  Icon: 0, 0, 32, 1, 2, "EW7235 North Platte\nT: 55.0F / D: 44.55F / RH: 68.0%\nWind: 12 G 20 mph\nUpdated: 14:20z"
-  Icon: 0, 0, 32, 1, 4, "EW7235 North Platte\nT: 55.0F / D: 44.55F / RH: 68.0%\nWind: 12 G 20 mph\nUpdated: 14:20z"
+  Icon: 0, 0, 17, 1, 2, "EW7235 North Platte\nT: 55.0F / D: 44.55F / RH: 68.0%\nWind: 14 G 20 mph\nUpdated: 14:25z"
+  Icon: 0, 0, 17, 1, 4, "EW7235 North Platte\nT: 55.0F / D: 44.55F / RH: 68.0%\nWind: 14 G 20 mph\nUpdated: 14:25z"
 End:
 
 Object: 43.02333, -98.90417
