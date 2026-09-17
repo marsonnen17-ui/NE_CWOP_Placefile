@@ -24,12 +24,12 @@ Object: 42.24333, -98.24200
   Color: 255 255 255
   Text: -14, -12, 1, "67"
   Color: 255 255 255
-  Text: 14, 12, 1, "83"
+  Text: 14, 12, 1, "84"
   Color: 255 255 100
-  Text: 14, -12, 1, "11"
+  Text: 14, -12, 1, "10"
   Color: 255 255 255
-  Icon: 0, 0, 103, 1, 2, "CW9774 Ewing\nT: 72.0F / D: 66.52F / RH: 83.0%\nWind: 3 G 11 mph\nUpdated: 23:20z"
-  Icon: 0, 0, 103, 1, 2, "CW9774 Ewing\nT: 72.0F / D: 66.52F / RH: 83.0%\nWind: 3 G 11 mph\nUpdated: 23:20z"
+  Icon: 0, 0, 62, 1, 2, "CW9774 Ewing\nT: 72.0F / D: 66.88F / RH: 84.0%\nWind: 4 G 10 mph\nUpdated: 23:25z"
+  Icon: 0, 0, 62, 1, 2, "CW9774 Ewing\nT: 72.0F / D: 66.88F / RH: 84.0%\nWind: 4 G 10 mph\nUpdated: 23:25z"
 End:
 
 Object: 42.7365, -99.73867
