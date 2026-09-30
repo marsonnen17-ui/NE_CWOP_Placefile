@@ -12,10 +12,10 @@ Object: 41.66283, -103.09667
   Color: 255 255 255
   Text: 14, 12, 1, "89"
   Color: 255 255 100
-  Text: 14, -12, 1, "0"
+  Text: 14, -12, 1, "2"
   Color: 255 255 255
-  Icon: 0, 0, 97, 1, 2, "CW2360 Bridgeport\nT: 51.0F / D: 47.84F / RH: 89.0%\nWind: 0 G 0 mph\nUpdated: 09:46z"
-  Icon: 0, 0, 97, 1, 2, "CW2360 Bridgeport\nT: 51.0F / D: 47.84F / RH: 89.0%\nWind: 0 G 0 mph\nUpdated: 09:46z"
+  Icon: 0, 0, 97, 1, 2, "CW2360 Bridgeport\nT: 51.0F / D: 47.84F / RH: 89.0%\nWind: 1 G 2 mph\nUpdated: 10:00z"
+  Icon: 0, 0, 97, 1, 2, "CW2360 Bridgeport\nT: 51.0F / D: 47.84F / RH: 89.0%\nWind: 1 G 2 mph\nUpdated: 10:00z"
 End:
 
 Object: 42.24333, -98.24200
@@ -26,10 +26,10 @@ Object: 42.24333, -98.24200
   Color: 255 255 255
   Text: 14, 12, 1, "98"
   Color: 255 255 100
-  Text: 14, -12, 1, "4"
+  Text: 14, -12, 1, "5"
   Color: 255 255 255
-  Icon: 0, 0, 263, 1, 2, "CW9774 Ewing\nT: 65.0F / D: 64.42F / RH: 98.0%\nWind: 2 G 4 mph\nUpdated: 09:55z"
-  Icon: 0, 0, 263, 1, 2, "CW9774 Ewing\nT: 65.0F / D: 64.42F / RH: 98.0%\nWind: 2 G 4 mph\nUpdated: 09:55z"
+  Icon: 0, 0, 302, 1, 2, "CW9774 Ewing\nT: 65.0F / D: 64.42F / RH: 98.0%\nWind: 2 G 5 mph\nUpdated: 10:00z"
+  Icon: 0, 0, 302, 1, 2, "CW9774 Ewing\nT: 65.0F / D: 64.42F / RH: 98.0%\nWind: 2 G 5 mph\nUpdated: 10:00z"
 End:
 
 Object: 42.7365, -99.73867
@@ -84,8 +84,8 @@ Object: 41.19033, -100.74950
   Color: 255 255 100
   Text: 14, -12, 1, "2"
   Color: 255 255 255
-  Icon: 0, 0, 0, 1, 2, "EW7235 North Platte\nT: 57.0F / D: 53.76F / RH: 89.0%\nWind: 0 G 2 mph\nUpdated: 09:55z"
-  Icon: 0, 0, 0, 1, 2, "EW7235 North Platte\nT: 57.0F / D: 53.76F / RH: 89.0%\nWind: 0 G 2 mph\nUpdated: 09:55z"
+  Icon: 0, 0, 0, 1, 2, "EW7235 North Platte\nT: 57.0F / D: 53.76F / RH: 89.0%\nWind: 0 G 2 mph\nUpdated: 10:00z"
+  Icon: 0, 0, 0, 1, 2, "EW7235 North Platte\nT: 57.0F / D: 53.76F / RH: 89.0%\nWind: 0 G 2 mph\nUpdated: 10:00z"
 End:
 
 Object: 43.02333, -98.90417
