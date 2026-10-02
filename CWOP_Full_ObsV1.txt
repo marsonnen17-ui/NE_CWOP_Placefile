@@ -12,10 +12,10 @@ Object: 41.66283, -103.09667
   Color: 255 255 255
   Text: 14, 12, 1, "84"
   Color: 255 255 100
-  Text: 14, -12, 1, "9"
+  Text: 14, -12, 1, "10"
   Color: 255 255 255
-  Icon: 0, 0, 102, 1, 2, "CW2360 Bridgeport\nT: 44.0F / D: 39.42F / RH: 84.0%\nWind: 5 G 9 mph\nUpdated: 11:46z"
-  Icon: 0, 0, 102, 1, 3, "CW2360 Bridgeport\nT: 44.0F / D: 39.42F / RH: 84.0%\nWind: 5 G 9 mph\nUpdated: 11:46z"
+  Icon: 0, 0, 79, 1, 2, "CW2360 Bridgeport\nT: 44.0F / D: 39.42F / RH: 84.0%\nWind: 3 G 10 mph\nUpdated: 12:01z"
+  Icon: 0, 0, 79, 1, 2, "CW2360 Bridgeport\nT: 44.0F / D: 39.42F / RH: 84.0%\nWind: 3 G 10 mph\nUpdated: 12:01z"
 End:
 
 Object: 42.24333, -98.24200
@@ -42,8 +42,8 @@ Object: 42.7365, -99.73867
   Color: 255 255 100
   Text: 14, -12, 1, "0"
   Color: 255 255 255
-  Icon: 0, 0, 0, 1, 2, "DW4989 Custer\nT: 45.0F / D: 43.07F / RH: 93.0%\nWind: 0 G 0 mph\nUpdated: 11:46z"
-  Icon: 0, 0, 0, 1, 2, "DW4989 Custer\nT: 45.0F / D: 43.07F / RH: 93.0%\nWind: 0 G 0 mph\nUpdated: 11:46z"
+  Icon: 0, 0, 0, 1, 2, "DW4989 Custer\nT: 45.0F / D: 43.07F / RH: 93.0%\nWind: 0 G 0 mph\nUpdated: 12:01z"
+  Icon: 0, 0, 0, 1, 2, "DW4989 Custer\nT: 45.0F / D: 43.07F / RH: 93.0%\nWind: 0 G 0 mph\nUpdated: 12:01z"
 End:
 
 Object: 42.88330, -100.54131
@@ -56,22 +56,22 @@ Object: 42.88330, -100.54131
   Color: 255 255 100
   Text: 14, -12, 1, "3"
   Color: 255 255 255
-  Icon: 0, 0, 109, 1, 2, "EW3958 Valentine\nT: 47.0F / D: 43.29F / RH: 87.0%\nWind: 2 G 3 mph\nUpdated: 11:55z"
-  Icon: 0, 0, 109, 1, 2, "EW3958 Valentine\nT: 47.0F / D: 43.29F / RH: 87.0%\nWind: 2 G 3 mph\nUpdated: 11:55z"
+  Icon: 0, 0, 97, 1, 2, "EW3958 Valentine\nT: 47.0F / D: 43.29F / RH: 87.0%\nWind: 2 G 3 mph\nUpdated: 12:00z"
+  Icon: 0, 0, 97, 1, 2, "EW3958 Valentine\nT: 47.0F / D: 43.29F / RH: 87.0%\nWind: 2 G 3 mph\nUpdated: 12:00z"
 End:
 
 Object: 41.20460, -100.93219
   Color: 255 255 255
   Text: -14, 12, 1, "40"
   Color: 255 255 255
-  Text: -14, -12, 1, "37"
+  Text: -14, -12, 1, "38"
   Color: 255 255 255
-  Text: 14, 12, 1, "90"
+  Text: 14, 12, 1, "91"
   Color: 255 255 100
-  Text: 14, -12, 1, "0"
+  Text: 14, -12, 1, "1"
   Color: 255 255 255
-  Icon: 0, 0, 0, 1, 2, "EW5818 North Platte\nT: 40.0F / D: 37.27F / RH: 90.0%\nWind: 0 G 0 mph\nUpdated: 10:55z"
-  Icon: 0, 0, 0, 1, 2, "EW5818 North Platte\nT: 40.0F / D: 37.27F / RH: 90.0%\nWind: 0 G 0 mph\nUpdated: 10:55z"
+  Icon: 0, 0, 225, 1, 2, "EW5818 North Platte\nT: 40.0F / D: 37.54F / RH: 91.0%\nWind: 0 G 1 mph\nUpdated: 12:00z"
+  Icon: 0, 0, 225, 1, 2, "EW5818 North Platte\nT: 40.0F / D: 37.54F / RH: 91.0%\nWind: 0 G 1 mph\nUpdated: 12:00z"
 End:
 
 Object: 41.19033, -100.74950
@@ -90,30 +90,30 @@ End:
 
 Object: 43.02333, -98.90417
   Color: 255 255 255
-  Text: -14, 12, 1, "49"
+  Text: -14, 12, 1, "48"
   Color: 255 255 255
   Text: -14, -12, 1, "43"
   Color: 255 255 255
-  Text: 14, 12, 1, "81"
+  Text: 14, 12, 1, "83"
   Color: 255 255 100
   Text: 14, -12, 1, "4"
   Color: 255 255 255
-  Icon: 0, 0, 187, 1, 2, "EW7290 Fairfax\nT: 49.0F / D: 43.36F / RH: 81.0%\nWind: 2 G 4 mph\nUpdated: 11:45z"
-  Icon: 0, 0, 187, 1, 2, "EW7290 Fairfax\nT: 49.0F / D: 43.36F / RH: 81.0%\nWind: 2 G 4 mph\nUpdated: 11:45z"
+  Icon: 0, 0, 204, 1, 2, "EW7290 Fairfax\nT: 48.0F / D: 43.03F / RH: 83.0%\nWind: 0 G 4 mph\nUpdated: 12:00z"
+  Icon: 0, 0, 204, 1, 2, "EW7290 Fairfax\nT: 48.0F / D: 43.03F / RH: 83.0%\nWind: 0 G 4 mph\nUpdated: 12:00z"
 End:
 
 Object: 41.19367, -101.49433
   Color: 255 255 255
-  Text: -14, 12, 1, "37"
+  Text: -14, 12, 1, "36"
   Color: 255 255 255
-  Text: -14, -12, 1, "33"
+  Text: -14, -12, 1, "32"
   Color: 255 255 255
   Text: 14, 12, 1, "84"
   Color: 255 255 100
   Text: 14, -12, 1, "0"
   Color: 255 255 255
-  Icon: 0, 0, 108, 1, 2, "EW7246 Keystone\nT: 37.0F / D: 32.56F / RH: 84.0%\nWind: 0 G 0 mph\nUpdated: 11:30z"
-  Icon: 0, 0, 108, 1, 2, "EW7246 Keystone\nT: 37.0F / D: 32.56F / RH: 84.0%\nWind: 0 G 0 mph\nUpdated: 11:30z"
+  Icon: 0, 0, 108, 1, 2, "EW7246 Keystone\nT: 36.0F / D: 31.57F / RH: 84.0%\nWind: 0 G 0 mph\nUpdated: 12:00z"
+  Icon: 0, 0, 108, 1, 2, "EW7246 Keystone\nT: 36.0F / D: 31.57F / RH: 84.0%\nWind: 0 G 0 mph\nUpdated: 12:00z"
 End:
 
 Object: 41.80850, -99.76483
