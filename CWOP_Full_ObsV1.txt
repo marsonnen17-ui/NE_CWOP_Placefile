@@ -24,12 +24,12 @@ Object: 42.24333, -98.24200
   Color: 255 255 255
   Text: -14, -12, 1, "47"
   Color: 255 255 255
-  Text: 14, 12, 1, "83"
+  Text: 14, 12, 1, "82"
   Color: 255 255 100
   Text: 14, -12, 1, "9"
   Color: 255 255 255
-  Icon: 0, 0, 95, 1, 2, "CW9774 Ewing\nT: 52.0F / D: 46.94F / RH: 83.0%\nWind: 0 G 9 mph\nUpdated: 07:15z"
-  Icon: 0, 0, 95, 1, 2, "CW9774 Ewing\nT: 52.0F / D: 46.94F / RH: 83.0%\nWind: 0 G 9 mph\nUpdated: 07:15z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 52.0F / D: 46.62F / RH: 82.0%\nWind: 0 G 9 mph\nUpdated: 07:20z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 52.0F / D: 46.62F / RH: 82.0%\nWind: 0 G 9 mph\nUpdated: 07:20z"
 End:
 
 Object: 42.7365, -99.73867
@@ -48,16 +48,16 @@ End:
 
 Object: 42.88330, -100.54131
   Color: 255 255 255
-  Text: -14, 12, 1, "53"
+  Text: -14, 12, 1, "52"
   Color: 255 255 255
   Text: -14, -12, 1, "42"
   Color: 255 255 255
-  Text: 14, 12, 1, "67"
+  Text: 14, 12, 1, "68"
   Color: 255 255 100
-  Text: 14, -12, 1, "4"
+  Text: 14, -12, 1, "6"
   Color: 255 255 255
-  Icon: 0, 0, 287, 1, 2, "EW3958 Valentine\nT: 53.0F / D: 42.24F / RH: 67.0%\nWind: 4 G 4 mph\nUpdated: 07:10z"
-  Icon: 0, 0, 287, 1, 2, "EW3958 Valentine\nT: 53.0F / D: 42.24F / RH: 67.0%\nWind: 4 G 4 mph\nUpdated: 07:10z"
+  Icon: 0, 0, 273, 1, 2, "EW3958 Valentine\nT: 52.0F / D: 41.67F / RH: 68.0%\nWind: 4 G 6 mph\nUpdated: 07:20z"
+  Icon: 0, 0, 273, 1, 2, "EW3958 Valentine\nT: 52.0F / D: 41.67F / RH: 68.0%\nWind: 4 G 6 mph\nUpdated: 07:20z"
 End:
 
 Object: 41.20460, -100.93219
@@ -84,8 +84,8 @@ Object: 41.19033, -100.74950
   Color: 255 255 100
   Text: 14, -12, 1, "14"
   Color: 255 255 255
-  Icon: 0, 0, 25, 1, 2, "EW7235 North Platte\nT: 60.0F / D: 50.11F / RH: 70.0%\nWind: 11 G 14 mph\nUpdated: 07:16z"
-  Icon: 0, 0, 25, 1, 4, "EW7235 North Platte\nT: 60.0F / D: 50.11F / RH: 70.0%\nWind: 11 G 14 mph\nUpdated: 07:16z"
+  Icon: 0, 0, 21, 1, 2, "EW7235 North Platte\nT: 60.0F / D: 50.11F / RH: 70.0%\nWind: 11 G 14 mph\nUpdated: 07:20z"
+  Icon: 0, 0, 21, 1, 4, "EW7235 North Platte\nT: 60.0F / D: 50.11F / RH: 70.0%\nWind: 11 G 14 mph\nUpdated: 07:20z"
 End:
 
 Object: 43.02333, -98.90417
