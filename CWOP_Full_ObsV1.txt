@@ -6,16 +6,16 @@ IconFile: 1, 64, 61, 32, 32, "https://raw.githubusercontent.com/marsonnen17-ui/N
 
 Object: 41.66283, -103.09667
   Color: 255 255 255
-  Text: -14, 12, 1, "65"
+  Text: -14, 12, 1, "64"
   Color: 255 255 255
   Text: -14, -12, 1, "38"
   Color: 255 255 255
-  Text: 14, 12, 1, "37"
+  Text: 14, 12, 1, "39"
   Color: 255 255 100
   Text: 14, -12, 1, "0"
   Color: 255 255 255
-  Icon: 0, 0, 126, 1, 2, "CW2360 Bridgeport\nT: 65.0F / D: 37.98F / RH: 37.0%\nWind: 0 G 0 mph\nUpdated: 01:45z"
-  Icon: 0, 0, 126, 1, 2, "CW2360 Bridgeport\nT: 65.0F / D: 37.98F / RH: 37.0%\nWind: 0 G 0 mph\nUpdated: 01:45z"
+  Icon: 0, 0, 126, 1, 2, "CW2360 Bridgeport\nT: 64.0F / D: 38.43F / RH: 39.0%\nWind: 0 G 0 mph\nUpdated: 02:00z"
+  Icon: 0, 0, 126, 1, 2, "CW2360 Bridgeport\nT: 64.0F / D: 38.43F / RH: 39.0%\nWind: 0 G 0 mph\nUpdated: 02:00z"
 End:
 
 Object: 42.24333, -98.24200
@@ -48,16 +48,16 @@ End:
 
 Object: 42.88330, -100.54131
   Color: 255 255 255
-  Text: -14, 12, 1, "63"
+  Text: -14, 12, 1, "62"
   Color: 255 255 255
-  Text: -14, -12, 1, "42"
+  Text: -14, -12, 1, "43"
   Color: 255 255 255
-  Text: 14, 12, 1, "47"
+  Text: 14, 12, 1, "50"
   Color: 255 255 100
   Text: 14, -12, 1, "6"
   Color: 255 255 255
-  Icon: 0, 0, 102, 1, 2, "EW3958 Valentine\nT: 63.0F / D: 42.33F / RH: 47.0%\nWind: 4 G 6 mph\nUpdated: 01:55z"
-  Icon: 0, 0, 102, 1, 2, "EW3958 Valentine\nT: 63.0F / D: 42.33F / RH: 47.0%\nWind: 4 G 6 mph\nUpdated: 01:55z"
+  Icon: 0, 0, 106, 1, 2, "EW3958 Valentine\nT: 62.0F / D: 43.03F / RH: 50.0%\nWind: 4 G 6 mph\nUpdated: 02:00z"
+  Icon: 0, 0, 106, 1, 2, "EW3958 Valentine\nT: 62.0F / D: 43.03F / RH: 50.0%\nWind: 4 G 6 mph\nUpdated: 02:00z"
 End:
 
 Object: 41.20460, -100.93219
@@ -90,16 +90,16 @@ End:
 
 Object: 43.02333, -98.90417
   Color: 255 255 255
-  Text: -14, 12, 1, "63"
+  Text: -14, 12, 1, "62"
   Color: 255 255 255
   Text: -14, -12, 1, "50"
   Color: 255 255 255
-  Text: 14, 12, 1, "62"
+  Text: 14, 12, 1, "64"
   Color: 255 255 100
   Text: 14, -12, 1, "4"
   Color: 255 255 255
-  Icon: 0, 0, 121, 1, 2, "EW7290 Fairfax\nT: 63.0F / D: 49.69F / RH: 62.0%\nWind: 3 G 4 mph\nUpdated: 01:45z"
-  Icon: 0, 0, 121, 1, 2, "EW7290 Fairfax\nT: 63.0F / D: 49.69F / RH: 62.0%\nWind: 3 G 4 mph\nUpdated: 01:45z"
+  Icon: 0, 0, 140, 1, 2, "EW7290 Fairfax\nT: 62.0F / D: 49.6F / RH: 64.0%\nWind: 3 G 4 mph\nUpdated: 02:01z"
+  Icon: 0, 0, 140, 1, 2, "EW7290 Fairfax\nT: 62.0F / D: 49.6F / RH: 64.0%\nWind: 3 G 4 mph\nUpdated: 02:01z"
 End:
 
 Object: 41.19367, -101.49433
@@ -118,15 +118,15 @@ End:
 
 Object: 41.80850, -99.76483
   Color: 255 255 255
-  Text: -14, 12, 1, "56"
+  Text: -14, 12, 1, "55"
   Color: 255 255 255
-  Text: -14, -12, 1, "45"
+  Text: -14, -12, 1, "44"
   Color: 255 255 255
   Text: 14, 12, 1, "66"
   Color: 255 255 100
-  Text: 14, -12, 1, "0"
+  Text: 14, -12, 1, "2"
   Color: 255 255 255
-  Icon: 0, 0, 130, 1, 2, "GW4507 ANSELMO\nT: 56.0F / D: 44.71F / RH: 66.0%\nWind: 0 G 0 mph\nUpdated: 01:30z"
-  Icon: 0, 0, 130, 1, 2, "GW4507 ANSELMO\nT: 56.0F / D: 44.71F / RH: 66.0%\nWind: 0 G 0 mph\nUpdated: 01:30z"
+  Icon: 0, 0, 130, 1, 2, "GW4507 ANSELMO\nT: 55.0F / D: 43.75F / RH: 66.0%\nWind: 0 G 2 mph\nUpdated: 02:00z"
+  Icon: 0, 0, 130, 1, 2, "GW4507 ANSELMO\nT: 55.0F / D: 43.75F / RH: 66.0%\nWind: 0 G 2 mph\nUpdated: 02:00z"
 End:
 
