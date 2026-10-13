@@ -28,8 +28,8 @@ Object: 42.24333, -98.24200
   Color: 255 255 100
   Text: 14, -12, 1, "11"
   Color: 255 255 255
-  Icon: 0, 0, 351, 1, 2, "CW9774 Ewing\nT: 47.0F / D: 43.29F / RH: 87.0%\nWind: 3 G 11 mph\nUpdated: 09:45z"
-  Icon: 0, 0, 351, 1, 2, "CW9774 Ewing\nT: 47.0F / D: 43.29F / RH: 87.0%\nWind: 3 G 11 mph\nUpdated: 09:45z"
+  Icon: 0, 0, 30, 1, 2, "CW9774 Ewing\nT: 47.0F / D: 43.29F / RH: 87.0%\nWind: 3 G 11 mph\nUpdated: 09:50z"
+  Icon: 0, 0, 30, 1, 2, "CW9774 Ewing\nT: 47.0F / D: 43.29F / RH: 87.0%\nWind: 3 G 11 mph\nUpdated: 09:50z"
 End:
 
 Object: 42.7365, -99.73867
@@ -48,16 +48,16 @@ End:
 
 Object: 42.88330, -100.54131
   Color: 255 255 255
-  Text: -14, 12, 1, "41"
+  Text: -14, 12, 1, "43"
   Color: 255 255 255
-  Text: -14, -12, 1, "39"
+  Text: -14, -12, 1, "41"
   Color: 255 255 255
-  Text: 14, 12, 1, "93"
+  Text: 14, 12, 1, "91"
   Color: 255 255 100
   Text: 14, -12, 1, "4"
   Color: 255 255 255
-  Icon: 0, 0, 318, 1, 2, "EW3958 Valentine\nT: 41.0F / D: 39.11F / RH: 93.0%\nWind: 3 G 4 mph\nUpdated: 09:25z"
-  Icon: 0, 0, 318, 1, 2, "EW3958 Valentine\nT: 41.0F / D: 39.11F / RH: 93.0%\nWind: 3 G 4 mph\nUpdated: 09:25z"
+  Icon: 0, 0, 327, 1, 2, "EW3958 Valentine\nT: 43.0F / D: 40.51F / RH: 91.0%\nWind: 3 G 4 mph\nUpdated: 09:50z"
+  Icon: 0, 0, 327, 1, 2, "EW3958 Valentine\nT: 43.0F / D: 40.51F / RH: 91.0%\nWind: 3 G 4 mph\nUpdated: 09:50z"
 End:
 
 Object: 41.20460, -100.93219
@@ -84,8 +84,8 @@ Object: 41.19033, -100.74950
   Color: 255 255 100
   Text: 14, -12, 1, "14"
   Color: 255 255 255
-  Icon: 0, 0, 55, 1, 2, "EW7235 North Platte\nT: 49.0F / D: 45.25F / RH: 87.0%\nWind: 10 G 14 mph\nUpdated: 09:45z"
-  Icon: 0, 0, 55, 1, 4, "EW7235 North Platte\nT: 49.0F / D: 45.25F / RH: 87.0%\nWind: 10 G 14 mph\nUpdated: 09:45z"
+  Icon: 0, 0, 60, 1, 2, "EW7235 North Platte\nT: 49.0F / D: 45.25F / RH: 87.0%\nWind: 11 G 14 mph\nUpdated: 09:50z"
+  Icon: 0, 0, 60, 1, 4, "EW7235 North Platte\nT: 49.0F / D: 45.25F / RH: 87.0%\nWind: 11 G 14 mph\nUpdated: 09:50z"
 End:
 
 Object: 43.02333, -98.90417
