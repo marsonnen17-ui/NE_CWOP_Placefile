@@ -28,8 +28,8 @@ Object: 42.24333, -98.24200
   Color: 255 255 100
   Text: 14, -12, 1, "4"
   Color: 255 255 255
-  Icon: 0, 0, 163, 1, 2, "CW9774 Ewing\nT: 33.0F / D: 29.21F / RH: 86.0%\nWind: 0 G 4 mph\nUpdated: 07:15z"
-  Icon: 0, 0, 163, 1, 2, "CW9774 Ewing\nT: 33.0F / D: 29.21F / RH: 86.0%\nWind: 0 G 4 mph\nUpdated: 07:15z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 33.0F / D: 29.21F / RH: 86.0%\nWind: 0 G 4 mph\nUpdated: 07:20z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 33.0F / D: 29.21F / RH: 86.0%\nWind: 0 G 4 mph\nUpdated: 07:20z"
 End:
 
 Object: 42.7365, -99.73867
@@ -52,12 +52,12 @@ Object: 42.88330, -100.54131
   Color: 255 255 255
   Text: -14, -12, 1, "28"
   Color: 255 255 255
-  Text: 14, 12, 1, "66"
+  Text: 14, 12, 1, "64"
   Color: 255 255 100
-  Text: 14, -12, 1, "7"
+  Text: 14, -12, 1, "9"
   Color: 255 255 255
-  Icon: 0, 0, 205, 1, 2, "EW3958 Valentine\nT: 39.0F / D: 28.47F / RH: 66.0%\nWind: 3 G 7 mph\nUpdated: 07:10z"
-  Icon: 0, 0, 205, 1, 2, "EW3958 Valentine\nT: 39.0F / D: 28.47F / RH: 66.0%\nWind: 3 G 7 mph\nUpdated: 07:10z"
+  Icon: 0, 0, 223, 1, 2, "EW3958 Valentine\nT: 39.0F / D: 27.72F / RH: 64.0%\nWind: 4 G 9 mph\nUpdated: 07:20z"
+  Icon: 0, 0, 223, 1, 2, "EW3958 Valentine\nT: 39.0F / D: 27.72F / RH: 64.0%\nWind: 4 G 9 mph\nUpdated: 07:20z"
 End:
 
 Object: 41.20460, -100.93219
@@ -80,12 +80,12 @@ Object: 41.19033, -100.74950
   Color: 255 255 255
   Text: -14, -12, 1, "27"
   Color: 255 255 255
-  Text: 14, 12, 1, "72"
+  Text: 14, 12, 1, "73"
   Color: 255 255 100
   Text: 14, -12, 1, "4"
   Color: 255 255 255
-  Icon: 0, 0, 92, 1, 2, "EW7235 North Platte\nT: 35.0F / D: 26.78F / RH: 72.0%\nWind: 1 G 4 mph\nUpdated: 07:16z"
-  Icon: 0, 0, 92, 1, 2, "EW7235 North Platte\nT: 35.0F / D: 26.78F / RH: 72.0%\nWind: 1 G 4 mph\nUpdated: 07:16z"
+  Icon: 0, 0, 87, 1, 2, "EW7235 North Platte\nT: 35.0F / D: 27.12F / RH: 73.0%\nWind: 1 G 4 mph\nUpdated: 07:20z"
+  Icon: 0, 0, 87, 1, 2, "EW7235 North Platte\nT: 35.0F / D: 27.12F / RH: 73.0%\nWind: 1 G 4 mph\nUpdated: 07:20z"
 End:
 
 Object: 43.02333, -98.90417
