@@ -20,16 +20,16 @@ End:
 
 Object: 42.24333, -98.24200
   Color: 255 255 255
-  Text: -14, 12, 1, "48"
+  Text: -14, 12, 1, "47"
   Color: 255 255 255
-  Text: -14, -12, 1, "40"
+  Text: -14, -12, 1, "39"
   Color: 255 255 255
-  Text: 14, 12, 1, "73"
+  Text: 14, 12, 1, "74"
   Color: 255 255 100
-  Text: 14, -12, 1, "2"
+  Text: 14, -12, 1, "1"
   Color: 255 255 255
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 48.0F / D: 39.67F / RH: 73.0%\nWind: 0 G 2 mph\nUpdated: 06:15z"
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 48.0F / D: 39.67F / RH: 73.0%\nWind: 0 G 2 mph\nUpdated: 06:15z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 47.0F / D: 39.06F / RH: 74.0%\nWind: 0 G 1 mph\nUpdated: 06:20z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 47.0F / D: 39.06F / RH: 74.0%\nWind: 0 G 1 mph\nUpdated: 06:20z"
 End:
 
 Object: 42.7365, -99.73867
@@ -56,8 +56,8 @@ Object: 42.88330, -100.54131
   Color: 255 255 100
   Text: 14, -12, 1, "10"
   Color: 255 255 255
-  Icon: 0, 0, 18, 1, 2, "EW3958 Valentine\nT: 47.0F / D: 39.06F / RH: 74.0%\nWind: 4 G 10 mph\nUpdated: 06:15z"
-  Icon: 0, 0, 18, 1, 2, "EW3958 Valentine\nT: 47.0F / D: 39.06F / RH: 74.0%\nWind: 4 G 10 mph\nUpdated: 06:15z"
+  Icon: 0, 0, 17, 1, 2, "EW3958 Valentine\nT: 47.0F / D: 39.06F / RH: 74.0%\nWind: 4 G 10 mph\nUpdated: 06:20z"
+  Icon: 0, 0, 17, 1, 2, "EW3958 Valentine\nT: 47.0F / D: 39.06F / RH: 74.0%\nWind: 4 G 10 mph\nUpdated: 06:20z"
 End:
 
 Object: 41.20460, -100.93219
@@ -84,8 +84,8 @@ Object: 41.19033, -100.74950
   Color: 255 255 100
   Text: 14, -12, 1, "6"
   Color: 255 255 255
-  Icon: 0, 0, 65, 1, 2, "EW7235 North Platte\nT: 49.0F / D: 36.82F / RH: 63.0%\nWind: 4 G 6 mph\nUpdated: 06:16z"
-  Icon: 0, 0, 65, 1, 2, "EW7235 North Platte\nT: 49.0F / D: 36.82F / RH: 63.0%\nWind: 4 G 6 mph\nUpdated: 06:16z"
+  Icon: 0, 0, 61, 1, 2, "EW7235 North Platte\nT: 49.0F / D: 36.82F / RH: 63.0%\nWind: 4 G 6 mph\nUpdated: 06:20z"
+  Icon: 0, 0, 61, 1, 2, "EW7235 North Platte\nT: 49.0F / D: 36.82F / RH: 63.0%\nWind: 4 G 6 mph\nUpdated: 06:20z"
 End:
 
 Object: 43.02333, -98.90417
