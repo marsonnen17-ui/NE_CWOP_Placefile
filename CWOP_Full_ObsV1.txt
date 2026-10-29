@@ -24,12 +24,12 @@ Object: 42.24333, -98.24200
   Color: 255 255 255
   Text: -14, -12, 1, "47"
   Color: 255 255 255
-  Text: 14, 12, 1, "86"
+  Text: 14, 12, 1, "87"
   Color: 255 255 100
   Text: 14, -12, 1, "2"
   Color: 255 255 255
-  Icon: 0, 0, 342, 1, 2, "CW9774 Ewing\nT: 51.0F / D: 46.92F / RH: 86.0%\nWind: 1 G 2 mph\nUpdated: 01:35z"
-  Icon: 0, 0, 342, 1, 2, "CW9774 Ewing\nT: 51.0F / D: 46.92F / RH: 86.0%\nWind: 1 G 2 mph\nUpdated: 01:35z"
+  Icon: 0, 0, 342, 1, 2, "CW9774 Ewing\nT: 51.0F / D: 47.23F / RH: 87.0%\nWind: 1 G 2 mph\nUpdated: 01:40z"
+  Icon: 0, 0, 342, 1, 2, "CW9774 Ewing\nT: 51.0F / D: 47.23F / RH: 87.0%\nWind: 1 G 2 mph\nUpdated: 01:40z"
 End:
 
 Object: 42.7365, -99.73867
@@ -56,8 +56,8 @@ Object: 42.88330, -100.54131
   Color: 255 255 100
   Text: 14, -12, 1, "6"
   Color: 255 255 255
-  Icon: 0, 0, 51, 1, 2, "EW3958 Valentine\nT: 48.0F / D: 38.21F / RH: 69.0%\nWind: 4 G 6 mph\nUpdated: 01:35z"
-  Icon: 0, 0, 51, 1, 2, "EW3958 Valentine\nT: 48.0F / D: 38.21F / RH: 69.0%\nWind: 4 G 6 mph\nUpdated: 01:35z"
+  Icon: 0, 0, 47, 1, 2, "EW3958 Valentine\nT: 48.0F / D: 38.21F / RH: 69.0%\nWind: 4 G 6 mph\nUpdated: 01:40z"
+  Icon: 0, 0, 47, 1, 2, "EW3958 Valentine\nT: 48.0F / D: 38.21F / RH: 69.0%\nWind: 4 G 6 mph\nUpdated: 01:40z"
 End:
 
 Object: 41.20460, -100.93219
@@ -82,10 +82,10 @@ Object: 41.19033, -100.74950
   Color: 255 255 255
   Text: 14, 12, 1, "48"
   Color: 255 255 100
-  Text: 14, -12, 1, "14"
+  Text: 14, -12, 1, "17"
   Color: 255 255 255
-  Icon: 0, 0, 50, 1, 2, "EW7235 North Platte\nT: 57.0F / D: 37.35F / RH: 48.0%\nWind: 11 G 14 mph\nUpdated: 01:35z"
-  Icon: 0, 0, 50, 1, 4, "EW7235 North Platte\nT: 57.0F / D: 37.35F / RH: 48.0%\nWind: 11 G 14 mph\nUpdated: 01:35z"
+  Icon: 0, 0, 45, 1, 2, "EW7235 North Platte\nT: 57.0F / D: 37.35F / RH: 48.0%\nWind: 13 G 17 mph\nUpdated: 01:40z"
+  Icon: 0, 0, 45, 1, 4, "EW7235 North Platte\nT: 57.0F / D: 37.35F / RH: 48.0%\nWind: 13 G 17 mph\nUpdated: 01:40z"
 End:
 
 Object: 43.02333, -98.90417
