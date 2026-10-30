@@ -28,8 +28,8 @@ Object: 42.24333, -98.24200
   Color: 255 255 100
   Text: 14, -12, 1, "1"
   Color: 255 255 255
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 51.0F / D: 43.27F / RH: 75.0%\nWind: 0 G 1 mph\nUpdated: 09:05z"
-  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 51.0F / D: 43.27F / RH: 75.0%\nWind: 0 G 1 mph\nUpdated: 09:05z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 51.0F / D: 43.27F / RH: 75.0%\nWind: 0 G 1 mph\nUpdated: 09:10z"
+  Icon: 0, 0, 0, 1, 2, "CW9774 Ewing\nT: 51.0F / D: 43.27F / RH: 75.0%\nWind: 0 G 1 mph\nUpdated: 09:10z"
 End:
 
 Object: 42.7365, -99.73867
@@ -50,14 +50,14 @@ Object: 42.88330, -100.54131
   Color: 255 255 255
   Text: -14, 12, 1, "41"
   Color: 255 255 255
-  Text: -14, -12, 1, "37"
+  Text: -14, -12, 1, "36"
   Color: 255 255 255
-  Text: 14, 12, 1, "85"
+  Text: 14, 12, 1, "84"
   Color: 255 255 100
   Text: 14, -12, 1, "3"
   Color: 255 255 255
-  Icon: 0, 0, 95, 1, 2, "EW3958 Valentine\nT: 41.0F / D: 36.79F / RH: 85.0%\nWind: 1 G 3 mph\nUpdated: 09:05z"
-  Icon: 0, 0, 95, 1, 2, "EW3958 Valentine\nT: 41.0F / D: 36.79F / RH: 85.0%\nWind: 1 G 3 mph\nUpdated: 09:05z"
+  Icon: 0, 0, 103, 1, 2, "EW3958 Valentine\nT: 41.0F / D: 36.48F / RH: 84.0%\nWind: 2 G 3 mph\nUpdated: 09:10z"
+  Icon: 0, 0, 103, 1, 2, "EW3958 Valentine\nT: 41.0F / D: 36.48F / RH: 84.0%\nWind: 2 G 3 mph\nUpdated: 09:10z"
 End:
 
 Object: 41.20460, -100.93219
@@ -82,10 +82,10 @@ Object: 41.19033, -100.74950
   Color: 255 255 255
   Text: 14, 12, 1, "89"
   Color: 255 255 100
-  Text: 14, -12, 1, "7"
+  Text: 14, -12, 1, "6"
   Color: 255 255 255
-  Icon: 0, 0, 109, 1, 2, "EW7235 North Platte\nT: 53.0F / D: 49.82F / RH: 89.0%\nWind: 3 G 7 mph\nUpdated: 09:05z"
-  Icon: 0, 0, 109, 1, 2, "EW7235 North Platte\nT: 53.0F / D: 49.82F / RH: 89.0%\nWind: 3 G 7 mph\nUpdated: 09:05z"
+  Icon: 0, 0, 122, 1, 2, "EW7235 North Platte\nT: 53.0F / D: 49.82F / RH: 89.0%\nWind: 4 G 6 mph\nUpdated: 09:10z"
+  Icon: 0, 0, 122, 1, 2, "EW7235 North Platte\nT: 53.0F / D: 49.82F / RH: 89.0%\nWind: 4 G 6 mph\nUpdated: 09:10z"
 End:
 
 Object: 43.02333, -98.90417
