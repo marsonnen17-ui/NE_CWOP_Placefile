@@ -28,8 +28,8 @@ Object: 42.24333, -98.24200
   Color: 255 255 100
   Text: 14, -12, 1, "19"
   Color: 255 255 255
-  Icon: 0, 0, 297, 1, 2, "CW9774 Ewing\nT: 46.0F / D: 42.01F / RH: 86.0%\nWind: 11 G 19 mph\nUpdated: 23:00z"
-  Icon: 0, 0, 297, 1, 4, "CW9774 Ewing\nT: 46.0F / D: 42.01F / RH: 86.0%\nWind: 11 G 19 mph\nUpdated: 23:00z"
+  Icon: 0, 0, 289, 1, 2, "CW9774 Ewing\nT: 46.0F / D: 42.01F / RH: 86.0%\nWind: 10 G 19 mph\nUpdated: 23:05z"
+  Icon: 0, 0, 289, 1, 4, "CW9774 Ewing\nT: 46.0F / D: 42.01F / RH: 86.0%\nWind: 10 G 19 mph\nUpdated: 23:05z"
 End:
 
 Object: 42.7365, -99.73867
@@ -56,22 +56,22 @@ Object: 42.88330, -100.54131
   Color: 255 255 100
   Text: 14, -12, 1, "23"
   Color: 255 255 255
-  Icon: 0, 0, 319, 1, 2, "EW3958 Valentine\nT: 49.0F / D: 31.5F / RH: 51.0%\nWind: 17 G 23 mph\nUpdated: 23:00z"
-  Icon: 0, 0, 319, 1, 5, "EW3958 Valentine\nT: 49.0F / D: 31.5F / RH: 51.0%\nWind: 17 G 23 mph\nUpdated: 23:00z"
+  Icon: 0, 0, 322, 1, 2, "EW3958 Valentine\nT: 49.0F / D: 31.5F / RH: 51.0%\nWind: 15 G 23 mph\nUpdated: 23:05z"
+  Icon: 0, 0, 322, 1, 4, "EW3958 Valentine\nT: 49.0F / D: 31.5F / RH: 51.0%\nWind: 15 G 23 mph\nUpdated: 23:05z"
 End:
 
 Object: 41.20460, -100.93219
   Color: 255 255 255
-  Text: -14, 12, 1, "57"
+  Text: -14, 12, 1, "56"
   Color: 255 255 255
   Text: -14, -12, 1, "33"
   Color: 255 255 255
-  Text: 14, 12, 1, "41"
+  Text: 14, 12, 1, "42"
   Color: 255 255 100
   Text: 14, -12, 1, "14"
   Color: 255 255 255
-  Icon: 0, 0, 314, 1, 2, "EW5818 North Platte\nT: 57.0F / D: 33.37F / RH: 41.0%\nWind: 11 G 14 mph\nUpdated: 22:55z"
-  Icon: 0, 0, 314, 1, 4, "EW5818 North Platte\nT: 57.0F / D: 33.37F / RH: 41.0%\nWind: 11 G 14 mph\nUpdated: 22:55z"
+  Icon: 0, 0, 313, 1, 2, "EW5818 North Platte\nT: 56.0F / D: 33.06F / RH: 42.0%\nWind: 10 G 14 mph\nUpdated: 23:05z"
+  Icon: 0, 0, 313, 1, 4, "EW5818 North Platte\nT: 56.0F / D: 33.06F / RH: 42.0%\nWind: 10 G 14 mph\nUpdated: 23:05z"
 End:
 
 Object: 41.19033, -100.74950
@@ -80,12 +80,12 @@ Object: 41.19033, -100.74950
   Color: 255 255 255
   Text: -14, -12, 1, "31"
   Color: 255 255 255
-  Text: 14, 12, 1, "38"
+  Text: 14, 12, 1, "39"
   Color: 255 255 100
-  Text: 14, -12, 1, "19"
+  Text: 14, -12, 1, "18"
   Color: 255 255 255
-  Icon: 0, 0, 319, 1, 2, "EW7235 North Platte\nT: 56.0F / D: 30.58F / RH: 38.0%\nWind: 13 G 19 mph\nUpdated: 23:01z"
-  Icon: 0, 0, 319, 1, 4, "EW7235 North Platte\nT: 56.0F / D: 30.58F / RH: 38.0%\nWind: 13 G 19 mph\nUpdated: 23:01z"
+  Icon: 0, 0, 310, 1, 2, "EW7235 North Platte\nT: 56.0F / D: 31.21F / RH: 39.0%\nWind: 13 G 18 mph\nUpdated: 23:05z"
+  Icon: 0, 0, 310, 1, 4, "EW7235 North Platte\nT: 56.0F / D: 31.21F / RH: 39.0%\nWind: 13 G 18 mph\nUpdated: 23:05z"
 End:
 
 Object: 43.02333, -98.90417
