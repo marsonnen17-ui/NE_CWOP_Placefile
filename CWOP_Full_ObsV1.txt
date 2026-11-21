@@ -26,10 +26,10 @@ Object: 42.24333, -98.24200
   Color: 255 255 255
   Text: 14, 12, 1, "92"
   Color: 255 255 100
-  Text: 14, -12, 1, "18"
+  Text: 14, -12, 1, "19"
   Color: 255 255 255
-  Icon: 0, 0, 344, 1, 2, "CW9774 Ewing\nT: 41.0F / D: 38.82F / RH: 92.0%\nWind: 11 G 18 mph\nUpdated: 11:30z"
-  Icon: 0, 0, 344, 1, 4, "CW9774 Ewing\nT: 41.0F / D: 38.82F / RH: 92.0%\nWind: 11 G 18 mph\nUpdated: 11:30z"
+  Icon: 0, 0, 5, 1, 2, "CW9774 Ewing\nT: 41.0F / D: 38.82F / RH: 92.0%\nWind: 13 G 19 mph\nUpdated: 11:35z"
+  Icon: 0, 0, 5, 1, 4, "CW9774 Ewing\nT: 41.0F / D: 38.82F / RH: 92.0%\nWind: 13 G 19 mph\nUpdated: 11:35z"
 End:
 
 Object: 42.7365, -99.73867
@@ -70,22 +70,22 @@ Object: 41.20460, -100.93219
   Color: 255 255 100
   Text: 14, -12, 1, "4"
   Color: 255 255 255
-  Icon: 0, 0, 286, 1, 2, "EW5818 North Platte\nT: 42.0F / D: 29.39F / RH: 61.0%\nWind: 4 G 4 mph\nUpdated: 11:25z"
-  Icon: 0, 0, 286, 1, 2, "EW5818 North Platte\nT: 42.0F / D: 29.39F / RH: 61.0%\nWind: 4 G 4 mph\nUpdated: 11:25z"
+  Icon: 0, 0, 286, 1, 2, "EW5818 North Platte\nT: 42.0F / D: 29.39F / RH: 61.0%\nWind: 4 G 4 mph\nUpdated: 11:35z"
+  Icon: 0, 0, 286, 1, 2, "EW5818 North Platte\nT: 42.0F / D: 29.39F / RH: 61.0%\nWind: 4 G 4 mph\nUpdated: 11:35z"
 End:
 
 Object: 41.19033, -100.74950
   Color: 255 255 255
-  Text: -14, 12, 1, "36"
+  Text: -14, 12, 1, "35"
   Color: 255 255 255
   Text: -14, -12, 1, "31"
   Color: 255 255 255
-  Text: 14, 12, 1, "83"
+  Text: 14, 12, 1, "84"
   Color: 255 255 100
-  Text: 14, -12, 1, "23"
+  Text: 14, -12, 1, "22"
   Color: 255 255 255
-  Icon: 0, 0, 19, 1, 2, "EW7235 North Platte\nT: 36.0F / D: 31.28F / RH: 83.0%\nWind: 18 G 23 mph\nUpdated: 11:31z"
-  Icon: 0, 0, 19, 1, 5, "EW7235 North Platte\nT: 36.0F / D: 31.28F / RH: 83.0%\nWind: 18 G 23 mph\nUpdated: 11:31z"
+  Icon: 0, 0, 32, 1, 2, "EW7235 North Platte\nT: 35.0F / D: 30.6F / RH: 84.0%\nWind: 17 G 22 mph\nUpdated: 11:35z"
+  Icon: 0, 0, 32, 1, 5, "EW7235 North Platte\nT: 35.0F / D: 30.6F / RH: 84.0%\nWind: 17 G 22 mph\nUpdated: 11:35z"
 End:
 
 Object: 43.02333, -98.90417
