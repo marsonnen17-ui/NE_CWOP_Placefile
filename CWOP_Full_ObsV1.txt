@@ -26,10 +26,10 @@ Object: 42.24333, -98.24200
   Color: 255 255 255
   Text: 14, 12, 1, "85"
   Color: 255 255 100
-  Text: 14, -12, 1, "5"
+  Text: 14, -12, 1, "6"
   Color: 255 255 255
-  Icon: 0, 0, 253, 1, 2, "CW9774 Ewing\nT: 36.0F / D: 31.87F / RH: 85.0%\nWind: 3 G 5 mph\nUpdated: 16:50z"
-  Icon: 0, 0, 253, 1, 2, "CW9774 Ewing\nT: 36.0F / D: 31.87F / RH: 85.0%\nWind: 3 G 5 mph\nUpdated: 16:50z"
+  Icon: 0, 0, 268, 1, 2, "CW9774 Ewing\nT: 36.0F / D: 31.87F / RH: 85.0%\nWind: 3 G 6 mph\nUpdated: 16:55z"
+  Icon: 0, 0, 268, 1, 2, "CW9774 Ewing\nT: 36.0F / D: 31.87F / RH: 85.0%\nWind: 3 G 6 mph\nUpdated: 16:55z"
 End:
 
 Object: 42.7365, -99.73867
@@ -68,10 +68,10 @@ Object: 41.20460, -100.93219
   Color: 255 255 255
   Text: 14, 12, 1, "51"
   Color: 255 255 100
-  Text: 14, -12, 1, "21"
+  Text: 14, -12, 1, "22"
   Color: 255 255 255
-  Icon: 0, 0, 330, 1, 2, "EW5818 North Platte\nT: 52.0F / D: 34.27F / RH: 51.0%\nWind: 13 G 21 mph\nUpdated: 16:50z"
-  Icon: 0, 0, 330, 1, 4, "EW5818 North Platte\nT: 52.0F / D: 34.27F / RH: 51.0%\nWind: 13 G 21 mph\nUpdated: 16:50z"
+  Icon: 0, 0, 328, 1, 2, "EW5818 North Platte\nT: 52.0F / D: 34.27F / RH: 51.0%\nWind: 14 G 22 mph\nUpdated: 16:55z"
+  Icon: 0, 0, 328, 1, 4, "EW5818 North Platte\nT: 52.0F / D: 34.27F / RH: 51.0%\nWind: 14 G 22 mph\nUpdated: 16:55z"
 End:
 
 Object: 41.19033, -100.74950
@@ -82,10 +82,10 @@ Object: 41.19033, -100.74950
   Color: 255 255 255
   Text: 14, 12, 1, "46"
   Color: 255 255 100
-  Text: 14, -12, 1, "27"
+  Text: 14, -12, 1, "28"
   Color: 255 255 255
-  Icon: 0, 0, 304, 1, 2, "EW7235 North Platte\nT: 51.0F / D: 30.78F / RH: 46.0%\nWind: 21 G 27 mph\nUpdated: 16:50z"
-  Icon: 0, 0, 304, 1, 5, "EW7235 North Platte\nT: 51.0F / D: 30.78F / RH: 46.0%\nWind: 21 G 27 mph\nUpdated: 16:50z"
+  Icon: 0, 0, 325, 1, 2, "EW7235 North Platte\nT: 51.0F / D: 30.78F / RH: 46.0%\nWind: 20 G 28 mph\nUpdated: 16:55z"
+  Icon: 0, 0, 325, 1, 5, "EW7235 North Platte\nT: 51.0F / D: 30.78F / RH: 46.0%\nWind: 20 G 28 mph\nUpdated: 16:55z"
 End:
 
 Object: 43.02333, -98.90417
